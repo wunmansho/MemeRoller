@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "427235409802",
+    "firebase_url": "https://meme-roller.firebaseio.com",
+    "project_id": "meme-roller",
+    "storage_bucket": "meme-roller.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427235409802:android:1d2cb3bf985c6187",
+        "android_client_info": {
+          "package_name": "com.wunmansho.memeroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427235409802-kpvo4ap5smdhhdkbuh63sk2fpib2ci2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wunmansho.memeroller",
+            "certificate_hash": "51a86e93c680c81b1874a93bba2b98ae6746a685"
+          }
+        },
+        {
+          "client_id": "427235409802-dmimmqku6p995in95m55iubetpnqvddh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahwFQjBlMN_diORGw6CJcTg4qjQIXf0Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427235409802-dmimmqku6p995in95m55iubetpnqvddh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9974842162530772~8204307123"
+    }
+  ],
+  "configuration_version": "1"
+}

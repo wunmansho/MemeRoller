@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <string name="app_name">Rodillo meme</string>
+    <string name="label_brush">Pincel</string>
+    <string name="label_emoji">Emoji</string>
+    <string name="label_sticker">Etiqueta</string>
+    <string name="label_eraser">Borrador</string>
+    <string name="label_text">Texto</string>
+    <string name="label_filter">Filtro</string>
+    <string name="label_adjust">Ajustar</string>
+    <string name="label_undo">Deshacer</string>
+    <string name="label_redo">Rehacer</string>
+    <string name="label_save">Guardar</string>
+    <string name="pic_label">Etiqueta de imagen</string>
+    <string name="all_tab">Todos</string>
+    <string name="celebrity_tab">Celebridad</string>
+    <string name="pets_tab">Animales</string>
+    <string name="political_tab">Políticos</string>
+    <string name="cartoon_tab">Dibujos animados</string>
+    <string name="urban_tab">Urbano</string>
+    <string name="saved_tab">Guardado</string>
+    <string name="label_done">Hecho</string>
+    <string name="label_rotation">Rotación</string>
+    <string name="label_opacity">Opacidad</string>
+    <string name="label_close">Cerrar</string>
+    <string name="label_mic">Micrófono</string>
+    <string name="label_send_to">Enviar</string>
+    <string name="label_camera">Cámara</string>
+    <string name="label_gallery">Galería de imágenes</string>
+    <string name="exit_app">Salir</string>
+    <string name="action_credits">Créditos</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="label_share">Compartir</string>
+
+
+
+
+
+</resources>

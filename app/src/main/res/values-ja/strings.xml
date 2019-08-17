@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <string name="app_name">ミームローラー</string>
+    <string name="label_brush">ブラシ</string>
+    <string name="label_emoji">絵文字</string>
+    <string name="label_sticker">ステッカー</string>
+    <string name="label_eraser">消しゴム</string>
+    <string name="label_text">テキスト</string>
+    <string name="label_filter">フィルタ</string>
+    <string name="label_adjust">調整する</string>
+    <string name="label_undo">元に戻す</string>
+    <string name="label_redo">やり直し</string>
+    <string name="label_save">保存する</string>
+    <string name="pic_label">写真ラベル</string>
+    <string name="all_tab">すべて</string>
+    <string name="celebrity_tab">有名人</string>
+    <string name="pets_tab">動物たち</string>
+    <string name="political_tab">政治的な</string>
+    <string name="cartoon_tab">漫画</string>
+    <string name="urban_tab">都市</string>
+    <string name="saved_tab">保存しました</string>
+    <string name="label_done">完了</string>
+    <string name="label_rotation">回転</string>
+    <string name="label_opacity">不透明度</string>
+    <string name="label_close">閉じる</string>
+    <string name="label_mic">ミック</string>
+    <string name="label_send_to">送る</string>
+    <string name="label_camera">カメラ</string>
+    <string name="label_gallery">イメージギャラリー</string>
+    <string name="exit_app">終了</string>
+    <string name="action_credits">クレジット</string>
+    <string name="action_about">バージョン情報</string>
+    <string name="action_settings">設定</string>
+    <string name="label_share">シェア</string>
+
+
+
+
+</resources>

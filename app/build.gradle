@@ -1,0 +1,103 @@
+apply plugin: 'com.android.application'
+apply plugin: "androidx.navigation.safeargs"
+android {
+    signingConfigs {
+        config {
+            keyAlias 'key0'
+            keyPassword 'Remote01Remote01@'
+            storeFile file('C:/Users/owner/AndroidstudioProjects/keystores')
+            storePassword 'Remote01Remote01@'
+        }
+    }
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.wunmansho.memeroller"
+        minSdkVersion 21
+        targetSdkVersion 28
+        versionCode 7
+        versionName '1'
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.config
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+            proguardFile 'C:/Users/owner/AndroidstudioProjects/MemeRoller/app/proguard-rules.pro'
+            zipAlignEnabled true
+            debuggable false
+            jniDebuggable false
+            pseudoLocalesEnabled true
+            renderscriptDebuggable false
+        }
+        debug {
+            minifyEnabled false
+            zipAlignEnabled false
+            jniDebuggable true
+            renderscriptDebuggable true
+            pseudoLocalesEnabled true
+        }
+    }
+    buildToolsVersion '28.0.3'
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    def nav_version = "2.0.0"
+    //implementation 'ja.burhanrashid52:photoeditor:0.3.3'
+    implementation project(':photoeditor')
+    implementation 'com.mikepenz:aboutlibraries:6.2.2'
+    implementation 'androidx.cardview:cardview:1.0.0-beta01'
+    implementation 'com.google.firebase:firebase-storage:16.0.1'
+    implementation 'com.google.firebase:firebase-auth:16.0.3'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.0-alpha4'
+    androidTestImplementation 'androidx.test:rules:1.1.0-alpha4'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0-alpha4'
+    implementation 'androidx.recyclerview:recyclerview:1.0.0-beta01'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.github.bumptech.glide:glide:4.9.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
+    implementation 'com.google.android.material:material:1.0.0-beta01'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.legacy:legacy-support-v13:1.0.0'
+    implementation "androidx.navigation:navigation-fragment:$nav_version"
+    // For Kotlin use navigation-fragment-ktx
+    implementation "androidx.navigation:navigation-ui:$nav_version"
+    // For Kotlin use navigation-ui-ktx
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation 'com.google.firebase:firebase-core:16.0.8'
+    // implementation 'com.androidhuman.rxfirebase2:firebase-core:16.0.5.0'
+    implementation 'com.google.firebase:firebase-ads:17.2.0'
+    implementation 'com.google.firebase:firebase-appindexing:17.1.0'
+    //  implementation 'com.leanplum:leanplum-fcm:4.3.1'
+    implementation 'com.google.firebase:firebase-messaging:17.4.0'
+    implementation 'com.google.android.gms:play-services-location:16.0.0'
+//    implementation 'com.tappx.sdk.android:tappx-sdk:3.1.3'
+//    implementation 'com.google.android.gms:play-services-base:16.1.0'
+//    implementation 'com.google.android.gms:play-services-ads:17.2.0'
+    //  implementation 'com.leanplum:leanplum-location:4.3.1'
+    implementation 'org.jsoup:jsoup:1.11.3'
+    implementation 'com.mikepenz:materialdrawer:6.1.2'
+    implementation 'com.mikepenz:google-material-typeface:3.0.1.3.original@aar'
+    //Google Material Icons
+    implementation 'com.mikepenz:fontawesome-typeface:5.3.1.1@aar'
+    //implementation('com.giphy.sdk:core:1.0.4@aar') {
+  //      transitive=true
+  //  }
+    //FontAwesome
+    //implementation project(':library')
+}
+apply plugin: 'com.google.gms.google-services'
+com.google.gms.googleservices.GoogleServicesPlugin.config.disableVersionCheck = true

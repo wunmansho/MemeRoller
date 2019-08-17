@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <string name="app_name">मेमे रोलर</string>
+    <string name="label_brush">ब्रश</string>
+    <string name="label_emoji">इमोजी</string>
+    <string name="label_sticker">स्टीकर</string>
+    <string name="label_eraser">रबड़</string>
+    <string name="label_text">टेक्स्ट</string>
+    <string name="label_filter">फ़िल्टर</string>
+    <string name="label_adjust">समायोजित करें</string>
+    <string name="label_undo">पूर्ववत करें</string>
+    <string name="label_redo">फिर से करें</string>
+    <string name="label_save">सहेजें</string>
+    <string name="pic_label">चित्र लेबल</string>
+    <string name="all_tab">सब</string>
+    <string name="celebrity_tab">प्रसिद्ध व्यक्ति</string>
+    <string name="pets_tab">जानवर</string>
+    <string name="political_tab">राजनीतिक</string>
+    <string name="cartoon_tab">कार्टून</string>
+    <string name="urban_tab">शहरी</string>
+    <string name="saved_tab">सहेजा गया</string>
+    <string name="label_done">पूर्ण किया गया</string>
+    <string name="label_rotation">रोटेशन</string>
+    <string name="label_opacity">अस्पष्टता</string>
+    <string name="label_close">बंद करे</string>
+    <string name="label_mic">माइक</string>
+    <string name="label_send_to">भेजें</string>
+    <string name="label_camera">कैमरा</string>
+    <string name="label_gallery">छवि गैलरी</string>
+    <string name="exit_app">बाहर जाएँ</string>
+    <string name="action_credits">क्रेडिट</string>
+    <string name="action_about">इसके बारे में</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="label_share">साझा</string>
+
+
+
+
+
+
+</resources>

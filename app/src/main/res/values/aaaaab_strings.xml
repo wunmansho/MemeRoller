@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaab">Марина Сиротинина</string>
+    <string name="library_aaaaaab_author">Марина Сиротинина</string>
+    <string name="library_aaaaaab_authorWebsite">https://pixabay.com/users/marsir86-4244778/</string>
+    <string name="library_aaaaaab_libraryName">Pixabay</string>
+    <string name="library_aaaaaab_libraryDescription">Марина Сиротинина at Pixabay</string>
+    <string name="library_aaaaaab_libraryVersion"></string>
+    <string name="library_aaaaaab_libraryWebsite"> https://pixabay.com/users/marsir86-4244778/</string>
+    <string name="library_aaaaaab_licenseId"></string>
+    <string name="library_aaaaaab_isOpenSource">true</string>
+    <string name="library_aaaaaab_repositoryLink"> https://pixabay.com/users/marsir86-4244778/</string>
+</resources>

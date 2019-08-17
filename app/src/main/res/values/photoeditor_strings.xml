@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_PhotoEditor">Photo Editor</string>
+    <string name="library_PhotoEditor_author">Burhanuddin Rashid</string>
+    <string name="library_PhotoEditor_authorWebsite"></string>
+    <string name="library_PhotoEditor_libraryName">PhotoEditor</string>
+    <string name="library_PhotoEditor_libraryDescription">A Photo Editor library with simple, easy support for image editing</string>
+    <string name="library_PhotoEditor_libraryVersion">0.3.0</string>
+    <string name="library_PhotoEditor_libraryWebsite">https://github.com/burhanrashid52/PhotoEditor/</string>
+    <string name="library_PhotoEditor_licenseId">MIT</string>
+    <string name="library_PhotoEditor_isOpenSource">true</string>
+    <string name="library_PhotoEditor_repositoryLink">https://github.com/burhanrashid52/PhotoEditor</string>
+    
+    
+    
+</resources>
