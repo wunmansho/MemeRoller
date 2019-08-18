@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaaa">Julieta Mascarella</string>
+    <string name="library_aaaaaaa_author">Julieta Mascarella</string>
+    <string name="library_aaaaaaa_authorWebsite">https://pixabay.com/users/julieta_masc-5768105/</string>
+    <string name="library_aaaaaaa_libraryName">Pixabay</string>
+    <string name="library_aaaaaaa_libraryDescription">Julieta Mascarella at Pixabay</string>
+    <string name="library_aaaaaaa_libraryVersion"></string>
+    <string name="library_aaaaaaa_libraryWebsite"> https://pixabay.com/users/julieta_masc-5768105/</string>
+    <string name="library_aaaaaaa_licenseId"></string>
+    <string name="library_aaaaaaa_isOpenSource">true</string>
+    <string name="library_aaaaaaa_repositoryLink"> https://pixabay.com/users/julieta_masc-5768105/</string>
+
+
+</resources>

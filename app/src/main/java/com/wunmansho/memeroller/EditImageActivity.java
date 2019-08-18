@@ -38,7 +38,7 @@ import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 
-import com.google.android.gms.ads.MobileAds;
+//import com.google.android.gms.ads.MobileAds;
 
 import com.wunmansho.memeroller.base.BaseActivity;
 import com.wunmansho.memeroller.filters.FilterListener;
@@ -158,7 +158,7 @@ public class EditImageActivity extends BaseActivity implements OnPhotoEditorList
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        MobileAds.initialize(this, "ca-app-pub-9974842162530772~8204307123");
+  //      MobileAds.initialize(this, "ca-app-pub-9974842162530772~8204307123");
         makeFullScreen();
 
         setContentView(R.layout.activity_edit_image);

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaaj">Ghislaine</string>
+    <string name="library_aaaaaaj_author">Ghislaine</string>
+    <string name="library_aaaaaaj_authorWebsite">https://pixabay.com/users/gisoft-2286712/</string>
+    <string name="library_aaaaaaj_libraryName">Pixabay</string>
+    <string name="library_aaaaaaj_libraryDescription">Ghislaine at Pixabay</string>
+    <string name="library_aaaaaaj_libraryVersion"></string>
+    <string name="library_aaaaaaj_libraryWebsite"> https://pixabay.com/users/gisoft-2286712/</string>
+    <string name="library_aaaaaaj_licenseId"></string>
+    <string name="library_aaaaaaj_isOpenSource">true</string>
+    <string name="library_aaaaaaj_repositoryLink"> https://pixabay.com/users/gisoft-2286712/</string>
+</resources>

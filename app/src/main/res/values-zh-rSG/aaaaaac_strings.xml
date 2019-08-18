@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaac">Jossi</string>
+    <string name="library_aaaaaac_author">Jossi</string>
+    <string name="library_aaaaaac_authorWebsite">https://pixabay.com/users/jo-b-246441/</string>
+    <string name="library_aaaaaac_libraryName">Pixabay</string>
+    <string name="library_aaaaaac_libraryDescription">Jossi at Pixabay</string>
+    <string name="library_aaaaaac_libraryVersion"></string>
+    <string name="library_aaaaaac_libraryWebsite"> https://pixabay.com/users/jo-b-246441/</string>
+    <string name="library_aaaaaac_licenseId"></string>
+    <string name="library_aaaaaac_isOpenSource">true</string>
+    <string name="library_aaaaaac_repositoryLink"> https://pixabay.com/users/jo-b-246441/</string>
+
+</resources>

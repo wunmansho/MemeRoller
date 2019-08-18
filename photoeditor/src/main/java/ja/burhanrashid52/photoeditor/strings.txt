@@ -1,0 +1,3186 @@
+<item>	U+1F600	</item>
+<item>	U+1F603	</item>
+<item>	U+1F604	</item>
+<item>	U+1F601	</item>
+<item>	U+1F606	</item>
+<item>	U+1F605	</item>
+<item>	U+1F923	</item>
+<item>	U+1F602	</item>
+<item>	U+1F642	</item>
+<item>	U+1F643	</item>
+<item>	U+1F609	</item>
+<item>	U+1F60A	</item>
+<item>	U+1F607	</item>
+<item>	U+1F970	</item>
+<item>	U+1F60D	</item>
+<item>	U+1F929	</item>
+<item>	U+1F618	</item>
+<item>	U+1F617	</item>
+<item>	U+263A, U+FE0F	</item>
+<item>	U+1F61A	</item>
+<item>	U+1F619	</item>
+<item>	U+1F60B	</item>
+<item>	U+1F61B	</item>
+<item>	U+1F61C	</item>
+<item>	U+1F92A	</item>
+<item>	U+1F61D	</item>
+<item>	U+1F911	</item>
+<item>	U+1F917	</item>
+<item>	U+1F92D	</item>
+<item>	U+1F92B	</item>
+<item>	U+1F914	</item>
+<item>	U+1F910	</item>
+<item>	U+1F928	</item>
+<item>	U+1F610	</item>
+<item>	U+1F611	</item>
+<item>	U+1F636	</item>
+<item>	U+1F60F	</item>
+<item>	U+1F612	</item>
+<item>	U+1F644	</item>
+<item>	U+1F62C	</item>
+<item>	U+1F925	</item>
+<item>	U+1F60C	</item>
+<item>	U+1F614	</item>
+<item>	U+1F62A	</item>
+<item>	U+1F924	</item>
+<item>	U+1F634	</item>
+<item>	U+1F637	</item>
+<item>	U+1F912	</item>
+<item>	U+1F915	</item>
+<item>	U+1F922	</item>
+<item>	U+1F92E	</item>
+<item>	U+1F927	</item>
+<item>	U+1F975	</item>
+<item>	U+1F976	</item>
+<item>	U+1F974	</item>
+<item>	U+1F635	</item>
+<item>	U+1F92F	</item>
+<item>	U+1F920	</item>
+<item>	U+1F973	</item>
+<item>	U+1F60E	</item>
+<item>	U+1F913	</item>
+<item>	U+1F9D0	</item>
+<item>	U+1F615	</item>
+<item>	U+1F61F	</item>
+<item>	U+1F641	</item>
+<item>	U+2639, U+FE0F	</item>
+<item>	U+1F62E	</item>
+<item>	U+1F62F	</item>
+<item>	U+1F632	</item>
+<item>	U+1F633	</item>
+<item>	U+1F97A	</item>
+<item>	U+1F626	</item>
+<item>	U+1F627	</item>
+<item>	U+1F628	</item>
+<item>	U+1F630	</item>
+<item>	U+1F625	</item>
+<item>	U+1F622	</item>
+<item>	U+1F62D	</item>
+<item>	U+1F631	</item>
+<item>	U+1F616	</item>
+<item>	U+1F623	</item>
+<item>	U+1F61E	</item>
+<item>	U+1F613	</item>
+<item>	U+1F629	</item>
+<item>	U+1F62B	</item>
+<item>	U+1F971	</item>
+<item>	U+1F624	</item>
+<item>	U+1F621	</item>
+<item>	U+1F620	</item>
+<item>	U+1F92C	</item>
+<item>	U+1F608	</item>
+<item>	U+1F47F	</item>
+<item>	U+1F480	</item>
+<item>	U+2620, U+FE0F	</item>
+<item>	U+1F4A9	</item>
+<item>	U+1F921	</item>
+<item>	U+1F479	</item>
+<item>	U+1F47A	</item>
+<item>	U+1F47B	</item>
+<item>	U+1F47D	</item>
+<item>	U+1F47E	</item>
+<item>	U+1F916	</item>
+<item>	U+1F63A	</item>
+<item>	U+1F638	</item>
+<item>	U+1F639	</item>
+<item>	U+1F63B	</item>
+<item>	U+1F63C	</item>
+<item>	U+1F63D	</item>
+<item>	U+1F640	</item>
+<item>	U+1F63F	</item>
+<item>	U+1F63E	</item>
+<item>	U+1F648	</item>
+<item>	U+1F649	</item>
+<item>	U+1F64A	</item>
+<item>	U+1F48B	</item>
+<item>	U+1F48C	</item>
+<item>	U+1F498	</item>
+<item>	U+1F49D	</item>
+<item>	U+1F496	</item>
+<item>	U+1F497	</item>
+<item>	U+1F493	</item>
+<item>	U+1F49E	</item>
+<item>	U+1F495	</item>
+<item>	U+1F49F	</item>
+<item>	U+2763, U+FE0F	</item>
+<item>	U+1F494	</item>
+<item>	U+2764, U+FE0F	</item>
+<item>	U+1F9E1	</item>
+<item>	U+1F49B	</item>
+<item>	U+1F49A	</item>
+<item>	U+1F499	</item>
+<item>	U+1F49C	</item>
+<item>	U+1F90E	</item>
+<item>	U+1F5A4	</item>
+<item>	U+1F90D	</item>
+<item>	U+1F4AF	</item>
+<item>	U+1F4A2	</item>
+<item>	U+1F4A5	</item>
+<item>	U+1F4AB	</item>
+<item>	U+1F4A6	</item>
+<item>	U+1F4A8	</item>
+<item>	U+1F573, U+FE0F	</item>
+<item>	U+1F4A3	</item>
+<item>	U+1F4AC	</item>
+<item>	U+1F441, U+FE0F, U+200D, U+1F5E8, U+FE0F	</item>
+<item>	U+1F5E8, U+FE0F	</item>
+<item>	U+1F5EF, U+FE0F	</item>
+<item>	U+1F4AD	</item>
+<item>	U+1F4A4	</item>
+<item>	U+1F44B	</item>
+<item>	U+1F44B, U+1F3FB	</item>
+<item>	U+1F44B, U+1F3FC	</item>
+<item>	U+1F44B, U+1F3FD	</item>
+<item>	U+1F44B, U+1F3FE	</item>
+<item>	U+1F44B, U+1F3FF	</item>
+<item>	U+1F91A	</item>
+<item>	U+1F91A, U+1F3FB	</item>
+<item>	U+1F91A, U+1F3FC	</item>
+<item>	U+1F91A, U+1F3FD	</item>
+<item>	U+1F91A, U+1F3FE	</item>
+<item>	U+1F91A, U+1F3FF	</item>
+<item>	U+1F590, U+FE0F	</item>
+<item>	U+1F590, U+1F3FB	</item>
+<item>	U+1F590, U+1F3FC	</item>
+<item>	U+1F590, U+1F3FD	</item>
+<item>	U+1F590, U+1F3FE	</item>
+<item>	U+1F590, U+1F3FF	</item>
+<item>	U+270B	</item>
+<item>	U+270B, U+1F3FB	</item>
+<item>	U+270B, U+1F3FC	</item>
+<item>	U+270B, U+1F3FD	</item>
+<item>	U+270B, U+1F3FE	</item>
+<item>	U+270B, U+1F3FF	</item>
+<item>	U+1F596	</item>
+<item>	U+1F596, U+1F3FB	</item>
+<item>	U+1F596, U+1F3FC	</item>
+<item>	U+1F596, U+1F3FD	</item>
+<item>	U+1F596, U+1F3FE	</item>
+<item>	U+1F596, U+1F3FF	</item>
+<item>	U+1F44C	</item>
+<item>	U+1F44C, U+1F3FB	</item>
+<item>	U+1F44C, U+1F3FC	</item>
+<item>	U+1F44C, U+1F3FD	</item>
+<item>	U+1F44C, U+1F3FE	</item>
+<item>	U+1F44C, U+1F3FF	</item>
+<item>	U+1F90F	</item>
+<item>	U+1F90F, U+1F3FB	</item>
+<item>	U+1F90F, U+1F3FC	</item>
+<item>	U+1F90F, U+1F3FD	</item>
+<item>	U+1F90F, U+1F3FE	</item>
+<item>	U+1F90F, U+1F3FF	</item>
+<item>	U+270C, U+FE0F	</item>
+<item>	U+270C, U+1F3FB	</item>
+<item>	U+270C, U+1F3FC	</item>
+<item>	U+270C, U+1F3FD	</item>
+<item>	U+270C, U+1F3FE	</item>
+<item>	U+270C, U+1F3FF	</item>
+<item>	U+1F91E	</item>
+<item>	U+1F91E, U+1F3FB	</item>
+<item>	U+1F91E, U+1F3FC	</item>
+<item>	U+1F91E, U+1F3FD	</item>
+<item>	U+1F91E, U+1F3FE	</item>
+<item>	U+1F91E, U+1F3FF	</item>
+<item>	U+1F91F	</item>
+<item>	U+1F91F, U+1F3FB	</item>
+<item>	U+1F91F, U+1F3FC	</item>
+<item>	U+1F91F, U+1F3FD	</item>
+<item>	U+1F91F, U+1F3FE	</item>
+<item>	U+1F91F, U+1F3FF	</item>
+<item>	U+1F918	</item>
+<item>	U+1F918, U+1F3FB	</item>
+<item>	U+1F918, U+1F3FC	</item>
+<item>	U+1F918, U+1F3FD	</item>
+<item>	U+1F918, U+1F3FE	</item>
+<item>	U+1F918, U+1F3FF	</item>
+<item>	U+1F919	</item>
+<item>	U+1F919, U+1F3FB	</item>
+<item>	U+1F919, U+1F3FC	</item>
+<item>	U+1F919, U+1F3FD	</item>
+<item>	U+1F919, U+1F3FE	</item>
+<item>	U+1F919, U+1F3FF	</item>
+<item>	U+1F448	</item>
+<item>	U+1F448, U+1F3FB	</item>
+<item>	U+1F448, U+1F3FC	</item>
+<item>	U+1F448, U+1F3FD	</item>
+<item>	U+1F448, U+1F3FE	</item>
+<item>	U+1F448, U+1F3FF	</item>
+<item>	U+1F449	</item>
+<item>	U+1F449, U+1F3FB	</item>
+<item>	U+1F449, U+1F3FC	</item>
+<item>	U+1F449, U+1F3FD	</item>
+<item>	U+1F449, U+1F3FE	</item>
+<item>	U+1F449, U+1F3FF	</item>
+<item>	U+1F446	</item>
+<item>	U+1F446, U+1F3FB	</item>
+<item>	U+1F446, U+1F3FC	</item>
+<item>	U+1F446, U+1F3FD	</item>
+<item>	U+1F446, U+1F3FE	</item>
+<item>	U+1F446, U+1F3FF	</item>
+<item>	U+1F595	</item>
+<item>	U+1F595, U+1F3FB	</item>
+<item>	U+1F595, U+1F3FC	</item>
+<item>	U+1F595, U+1F3FD	</item>
+<item>	U+1F595, U+1F3FE	</item>
+<item>	U+1F595, U+1F3FF	</item>
+<item>	U+1F447	</item>
+<item>	U+1F447, U+1F3FB	</item>
+<item>	U+1F447, U+1F3FC	</item>
+<item>	U+1F447, U+1F3FD	</item>
+<item>	U+1F447, U+1F3FE	</item>
+<item>	U+1F447, U+1F3FF	</item>
+<item>	U+261D, U+FE0F	</item>
+<item>	U+261D, U+1F3FB	</item>
+<item>	U+261D, U+1F3FC	</item>
+<item>	U+261D, U+1F3FD	</item>
+<item>	U+261D, U+1F3FE	</item>
+<item>	U+261D, U+1F3FF	</item>
+<item>	U+1F44D	</item>
+<item>	U+1F44D, U+1F3FB	</item>
+<item>	U+1F44D, U+1F3FC	</item>
+<item>	U+1F44D, U+1F3FD	</item>
+<item>	U+1F44D, U+1F3FE	</item>
+<item>	U+1F44D, U+1F3FF	</item>
+<item>	U+1F44E	</item>
+<item>	U+1F44E, U+1F3FB	</item>
+<item>	U+1F44E, U+1F3FC	</item>
+<item>	U+1F44E, U+1F3FD	</item>
+<item>	U+1F44E, U+1F3FE	</item>
+<item>	U+1F44E, U+1F3FF	</item>
+<item>	U+270A	</item>
+<item>	U+270A, U+1F3FB	</item>
+<item>	U+270A, U+1F3FC	</item>
+<item>	U+270A, U+1F3FD	</item>
+<item>	U+270A, U+1F3FE	</item>
+<item>	U+270A, U+1F3FF	</item>
+<item>	U+1F44A	</item>
+<item>	U+1F44A, U+1F3FB	</item>
+<item>	U+1F44A, U+1F3FC	</item>
+<item>	U+1F44A, U+1F3FD	</item>
+<item>	U+1F44A, U+1F3FE	</item>
+<item>	U+1F44A, U+1F3FF	</item>
+<item>	U+1F91B	</item>
+<item>	U+1F91B, U+1F3FB	</item>
+<item>	U+1F91B, U+1F3FC	</item>
+<item>	U+1F91B, U+1F3FD	</item>
+<item>	U+1F91B, U+1F3FE	</item>
+<item>	U+1F91B, U+1F3FF	</item>
+<item>	U+1F91C	</item>
+<item>	U+1F91C, U+1F3FB	</item>
+<item>	U+1F91C, U+1F3FC	</item>
+<item>	U+1F91C, U+1F3FD	</item>
+<item>	U+1F91C, U+1F3FE	</item>
+<item>	U+1F91C, U+1F3FF	</item>
+<item>	U+1F44F	</item>
+<item>	U+1F44F, U+1F3FB	</item>
+<item>	U+1F44F, U+1F3FC	</item>
+<item>	U+1F44F, U+1F3FD	</item>
+<item>	U+1F44F, U+1F3FE	</item>
+<item>	U+1F44F, U+1F3FF	</item>
+<item>	U+1F64C	</item>
+<item>	U+1F64C, U+1F3FB	</item>
+<item>	U+1F64C, U+1F3FC	</item>
+<item>	U+1F64C, U+1F3FD	</item>
+<item>	U+1F64C, U+1F3FE	</item>
+<item>	U+1F64C, U+1F3FF	</item>
+<item>	U+1F450	</item>
+<item>	U+1F450, U+1F3FB	</item>
+<item>	U+1F450, U+1F3FC	</item>
+<item>	U+1F450, U+1F3FD	</item>
+<item>	U+1F450, U+1F3FE	</item>
+<item>	U+1F450, U+1F3FF	</item>
+<item>	U+1F932	</item>
+<item>	U+1F932, U+1F3FB	</item>
+<item>	U+1F932, U+1F3FC	</item>
+<item>	U+1F932, U+1F3FD	</item>
+<item>	U+1F932, U+1F3FE	</item>
+<item>	U+1F932, U+1F3FF	</item>
+<item>	U+1F91D	</item>
+<item>	U+1F91D, U+1F3FB	</item>
+<item>	U+1F64F	</item>
+<item>	U+1F91D, U+1F3FC	</item>
+<item>	U+1F64F, U+1F3FB	</item>
+<item>	U+1F91D, U+1F3FD	</item>
+<item>	U+1F64F, U+1F3FC	</item>
+<item>	U+1F91D, U+1F3FE	</item>
+<item>	U+1F64F, U+1F3FD	</item>
+<item>	U+1F64F, U+1F3FE	</item>
+<item>	U+1F91D, U+1F3FF	</item>
+<item>	U+1F64F, U+1F3FF	</item>
+<item>	U+270D, U+FE0F	</item>
+<item>	U+270D, U+1F3FB	</item>
+<item>	U+270D, U+1F3FC	</item>
+<item>	U+270D, U+1F3FD	</item>
+<item>	U+270D, U+1F3FE	</item>
+<item>	U+270D, U+1F3FF	</item>
+<item>	U+1F485	</item>
+<item>	U+1F485, U+1F3FB	</item>
+<item>	U+1F485, U+1F3FC	</item>
+<item>	U+1F485, U+1F3FD	</item>
+<item>	U+1F485, U+1F3FE	</item>
+<item>	U+1F485, U+1F3FF	</item>
+<item>	U+1F933	</item>
+<item>	U+1F933, U+1F3FB	</item>
+<item>	U+1F933, U+1F3FC	</item>
+<item>	U+1F933, U+1F3FD	</item>
+<item>	U+1F933, U+1F3FE	</item>
+<item>	U+1F933, U+1F3FF	</item>
+<item>	U+1F4AA	</item>
+<item>	U+1F4AA, U+1F3FB	</item>
+<item>	U+1F4AA, U+1F3FC	</item>
+<item>	U+1F4AA, U+1F3FD	</item>
+<item>	U+1F4AA, U+1F3FE	</item>
+<item>	U+1F4AA, U+1F3FF	</item>
+<item>	U+1F9BE	</item>
+<item>	U+1F9BF	</item>
+<item>	U+1F9B5	</item>
+<item>	U+1F9B5, U+1F3FB	</item>
+<item>	U+1F9B5, U+1F3FC	</item>
+<item>	U+1F9B5, U+1F3FD	</item>
+<item>	U+1F9B5, U+1F3FE	</item>
+<item>	U+1F9B5, U+1F3FF	</item>
+<item>	U+1F9B6	</item>
+<item>	U+1F9B6, U+1F3FB	</item>
+<item>	U+1F9B6, U+1F3FC	</item>
+<item>	U+1F9B6, U+1F3FD	</item>
+<item>	U+1F9B6, U+1F3FE	</item>
+<item>	U+1F9B6, U+1F3FF	</item>
+<item>	U+1F442	</item>
+<item>	U+1F442, U+1F3FB	</item>
+<item>	U+1F442, U+1F3FC	</item>
+<item>	U+1F442, U+1F3FD	</item>
+<item>	U+1F442, U+1F3FE	</item>
+<item>	U+1F442, U+1F3FF	</item>
+<item>	U+1F9BB	</item>
+<item>	U+1F9BB, U+1F3FB	</item>
+<item>	U+1F9BB, U+1F3FC	</item>
+<item>	U+1F9BB, U+1F3FD	</item>
+<item>	U+1F9BB, U+1F3FE	</item>
+<item>	U+1F9BB, U+1F3FF	</item>
+<item>	U+1F443	</item>
+<item>	U+1F443, U+1F3FB	</item>
+<item>	U+1F443, U+1F3FC	</item>
+<item>	U+1F443, U+1F3FD	</item>
+<item>	U+1F443, U+1F3FE	</item>
+<item>	U+1F443, U+1F3FF	</item>
+<item>	U+1F9E0	</item>
+<item>	U+1F9B7	</item>
+<item>	U+1F9B4	</item>
+<item>	U+1F440	</item>
+<item>	U+1F441, U+FE0F	</item>
+<item>	U+1F445	</item>
+<item>	U+1F444	</item>
+<item>	U+1F476	</item>
+<item>	U+1F476, U+1F3FB	</item>
+<item>	U+1F476, U+1F3FC	</item>
+<item>	U+1F476, U+1F3FD	</item>
+<item>	U+1F476, U+1F3FE	</item>
+<item>	U+1F476, U+1F3FF	</item>
+<item>	U+1F9D2	</item>
+<item>	U+1F9D2, U+1F3FB	</item>
+<item>	U+1F9D2, U+1F3FC	</item>
+<item>	U+1F9D2, U+1F3FD	</item>
+<item>	U+1F9D2, U+1F3FE	</item>
+<item>	U+1F9D2, U+1F3FF	</item>
+<item>	U+1F466	</item>
+<item>	U+1F466, U+1F3FB	</item>
+<item>	U+1F466, U+1F3FC	</item>
+<item>	U+1F466, U+1F3FD	</item>
+<item>	U+1F466, U+1F3FE	</item>
+<item>	U+1F466, U+1F3FF	</item>
+<item>	U+1F467	</item>
+<item>	U+1F467, U+1F3FB	</item>
+<item>	U+1F467, U+1F3FC	</item>
+<item>	U+1F467, U+1F3FD	</item>
+<item>	U+1F467, U+1F3FE	</item>
+<item>	U+1F467, U+1F3FF	</item>
+<item>	U+1F9D1	</item>
+<item>	U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FC	</item>
+<item>	U+1F9D1, U+1F3FD	</item>
+<item>	U+1F9D1, U+1F3FE	</item>
+<item>	U+1F9D1, U+1F3FF	</item>
+<item>	U+1F471	</item>
+<item>	U+1F471, U+1F3FB	</item>
+<item>	U+1F471, U+1F3FC	</item>
+<item>	U+1F471, U+1F3FD	</item>
+<item>	U+1F471, U+1F3FE	</item>
+<item>	U+1F471, U+1F3FF	</item>
+<item>	U+1F468	</item>
+<item>	U+1F468, U+1F3FB	</item>
+<item>	U+1F468, U+1F3FC	</item>
+<item>	U+1F468, U+1F3FD	</item>
+<item>	U+1F468, U+1F3FE	</item>
+<item>	U+1F468, U+1F3FF	</item>
+<item>	U+1F9D4	</item>
+<item>	U+1F9D4, U+1F3FB	</item>
+<item>	U+1F9D4, U+1F3FC	</item>
+<item>	U+1F9D4, U+1F3FD	</item>
+<item>	U+1F9D4, U+1F3FE	</item>
+<item>	U+1F9D4, U+1F3FF	</item>
+<item>	U+1F471, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F471, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F471, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F471, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F471, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F471, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9B0	</item>
+<item>	U+1F468, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9B1	</item>
+<item>	U+1F468, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9B3	</item>
+<item>	U+1F468, U+200D, U+1F9B2	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9B2	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9B2	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9B2	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9B2	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9B2	</item>
+<item>	U+1F469	</item>
+<item>	U+1F469, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FF	</item>
+<item>	U+1F471, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F471, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F471, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F471, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F471, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F471, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F469, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9B0	</item>
+<item>	U+1F469, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9B1	</item>
+<item>	U+1F469, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9B3	</item>
+<item>	U+1F469, U+200D, U+1F9B2	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9B2	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9B2	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9B2	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9B2	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9B2	</item>
+<item>	U+1F9D3	</item>
+<item>	U+1F9D3, U+1F3FB	</item>
+<item>	U+1F9D3, U+1F3FC	</item>
+<item>	U+1F9D3, U+1F3FD	</item>
+<item>	U+1F9D3, U+1F3FE	</item>
+<item>	U+1F9D3, U+1F3FF	</item>
+<item>	U+1F474	</item>
+<item>	U+1F474, U+1F3FB	</item>
+<item>	U+1F474, U+1F3FC	</item>
+<item>	U+1F474, U+1F3FD	</item>
+<item>	U+1F474, U+1F3FE	</item>
+<item>	U+1F474, U+1F3FF	</item>
+<item>	U+1F475	</item>
+<item>	U+1F475, U+1F3FB	</item>
+<item>	U+1F475, U+1F3FC	</item>
+<item>	U+1F475, U+1F3FD	</item>
+<item>	U+1F475, U+1F3FE	</item>
+<item>	U+1F475, U+1F3FF	</item>
+<item>	U+1F64D	</item>
+<item>	U+1F64D, U+1F3FB	</item>
+<item>	U+1F64D, U+1F3FC	</item>
+<item>	U+1F64D, U+1F3FD	</item>
+<item>	U+1F64D, U+1F3FE	</item>
+<item>	U+1F64D, U+1F3FF	</item>
+<item>	U+1F64D, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64D, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64D, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E	</item>
+<item>	U+1F64E, U+1F3FB	</item>
+<item>	U+1F64E, U+1F3FC	</item>
+<item>	U+1F64E, U+1F3FD	</item>
+<item>	U+1F64E, U+1F3FE	</item>
+<item>	U+1F64E, U+1F3FF	</item>
+<item>	U+1F64E, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64E, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64E, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645	</item>
+<item>	U+1F645, U+1F3FB	</item>
+<item>	U+1F645, U+1F3FC	</item>
+<item>	U+1F645, U+1F3FD	</item>
+<item>	U+1F645, U+1F3FE	</item>
+<item>	U+1F645, U+1F3FF	</item>
+<item>	U+1F645, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F645, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F645, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646	</item>
+<item>	U+1F646, U+1F3FB	</item>
+<item>	U+1F646, U+1F3FC	</item>
+<item>	U+1F646, U+1F3FD	</item>
+<item>	U+1F646, U+1F3FE	</item>
+<item>	U+1F646, U+1F3FF	</item>
+<item>	U+1F646, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F646, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F646, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481	</item>
+<item>	U+1F481, U+1F3FB	</item>
+<item>	U+1F481, U+1F3FC	</item>
+<item>	U+1F481, U+1F3FD	</item>
+<item>	U+1F481, U+1F3FE	</item>
+<item>	U+1F481, U+1F3FF	</item>
+<item>	U+1F481, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F481, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F481, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B	</item>
+<item>	U+1F64B, U+1F3FB	</item>
+<item>	U+1F64B, U+1F3FC	</item>
+<item>	U+1F64B, U+1F3FD	</item>
+<item>	U+1F64B, U+1F3FE	</item>
+<item>	U+1F64B, U+1F3FF	</item>
+<item>	U+1F64B, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F64B, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F64B, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF	</item>
+<item>	U+1F9CF, U+1F3FB	</item>
+<item>	U+1F9CF, U+1F3FC	</item>
+<item>	U+1F9CF, U+1F3FD	</item>
+<item>	U+1F9CF, U+1F3FE	</item>
+<item>	U+1F9CF, U+1F3FF	</item>
+<item>	U+1F9CF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CF, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647	</item>
+<item>	U+1F647, U+1F3FB	</item>
+<item>	U+1F647, U+1F3FC	</item>
+<item>	U+1F647, U+1F3FD	</item>
+<item>	U+1F647, U+1F3FE	</item>
+<item>	U+1F647, U+1F3FF	</item>
+<item>	U+1F647, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F647, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F647, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926	</item>
+<item>	U+1F926, U+1F3FB	</item>
+<item>	U+1F926, U+1F3FC	</item>
+<item>	U+1F926, U+1F3FD	</item>
+<item>	U+1F926, U+1F3FE	</item>
+<item>	U+1F926, U+1F3FF	</item>
+<item>	U+1F926, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F926, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F926, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937	</item>
+<item>	U+1F937, U+1F3FB	</item>
+<item>	U+1F937, U+1F3FC	</item>
+<item>	U+1F937, U+1F3FD	</item>
+<item>	U+1F937, U+1F3FE	</item>
+<item>	U+1F937, U+1F3FF	</item>
+<item>	U+1F937, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F937, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F937, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+2695, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+1F393	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F393	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F393	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F393	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F393	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F393	</item>
+<item>	U+1F469, U+200D, U+1F393	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F393	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F393	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F393	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F393	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F393	</item>
+<item>	U+1F468, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F3EB	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F3EB	</item>
+<item>	U+1F468, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+2696, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F33E	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F33E	</item>
+<item>	U+1F468, U+200D, U+1F373	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F373	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F373	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F373	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F373	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F373	</item>
+<item>	U+1F469, U+200D, U+1F373	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F373	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F373	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F373	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F373	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F373	</item>
+<item>	U+1F468, U+200D, U+1F527	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F527	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F527	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F527	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F527	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F527	</item>
+<item>	U+1F469, U+200D, U+1F527	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F527	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F527	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F527	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F527	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F527	</item>
+<item>	U+1F468, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F3ED	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F3ED	</item>
+<item>	U+1F468, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F4BC	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F4BC	</item>
+<item>	U+1F468, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F52C	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F52C	</item>
+<item>	U+1F468, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F4BB	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F4BB	</item>
+<item>	U+1F468, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F3A4	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F3A4	</item>
+<item>	U+1F468, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F3A8	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F3A8	</item>
+<item>	U+1F468, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+2708, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+1F680	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F680	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F680	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F680	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F680	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F680	</item>
+<item>	U+1F469, U+200D, U+1F680	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F680	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F680	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F680	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F680	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F680	</item>
+<item>	U+1F468, U+200D, U+1F692	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F692	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F692	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F692	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F692	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F692	</item>
+<item>	U+1F469, U+200D, U+1F692	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F692	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F692	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F692	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F692	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F692	</item>
+<item>	U+1F46E	</item>
+<item>	U+1F46E, U+1F3FB	</item>
+<item>	U+1F46E, U+1F3FC	</item>
+<item>	U+1F46E, U+1F3FD	</item>
+<item>	U+1F46E, U+1F3FE	</item>
+<item>	U+1F46E, U+1F3FF	</item>
+<item>	U+1F46E, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46E, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46E, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+FE0F	</item>
+<item>	U+1F575, U+1F3FB	</item>
+<item>	U+1F575, U+1F3FC	</item>
+<item>	U+1F575, U+1F3FD	</item>
+<item>	U+1F575, U+1F3FE	</item>
+<item>	U+1F575, U+1F3FF	</item>
+<item>	U+1F575, U+FE0F, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F575, U+FE0F, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F575, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482	</item>
+<item>	U+1F482, U+1F3FB	</item>
+<item>	U+1F482, U+1F3FC	</item>
+<item>	U+1F482, U+1F3FD	</item>
+<item>	U+1F482, U+1F3FE	</item>
+<item>	U+1F482, U+1F3FF	</item>
+<item>	U+1F482, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F482, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F482, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477	</item>
+<item>	U+1F477, U+1F3FB	</item>
+<item>	U+1F477, U+1F3FC	</item>
+<item>	U+1F477, U+1F3FD	</item>
+<item>	U+1F477, U+1F3FE	</item>
+<item>	U+1F477, U+1F3FF	</item>
+<item>	U+1F477, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F477, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F477, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F934	</item>
+<item>	U+1F934, U+1F3FB	</item>
+<item>	U+1F934, U+1F3FC	</item>
+<item>	U+1F934, U+1F3FD	</item>
+<item>	U+1F934, U+1F3FE	</item>
+<item>	U+1F934, U+1F3FF	</item>
+<item>	U+1F478	</item>
+<item>	U+1F478, U+1F3FB	</item>
+<item>	U+1F478, U+1F3FC	</item>
+<item>	U+1F478, U+1F3FD	</item>
+<item>	U+1F478, U+1F3FE	</item>
+<item>	U+1F478, U+1F3FF	</item>
+<item>	U+1F473	</item>
+<item>	U+1F473, U+1F3FB	</item>
+<item>	U+1F473, U+1F3FC	</item>
+<item>	U+1F473, U+1F3FD	</item>
+<item>	U+1F473, U+1F3FE	</item>
+<item>	U+1F473, U+1F3FF	</item>
+<item>	U+1F473, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F473, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F473, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F473, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F473, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F473, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F473, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F472	</item>
+<item>	U+1F472, U+1F3FB	</item>
+<item>	U+1F472, U+1F3FC	</item>
+<item>	U+1F472, U+1F3FD	</item>
+<item>	U+1F472, U+1F3FE	</item>
+<item>	U+1F472, U+1F3FF	</item>
+<item>	U+1F9D5	</item>
+<item>	U+1F9D5, U+1F3FB	</item>
+<item>	U+1F9D5, U+1F3FC	</item>
+<item>	U+1F9D5, U+1F3FD	</item>
+<item>	U+1F9D5, U+1F3FE	</item>
+<item>	U+1F9D5, U+1F3FF	</item>
+<item>	U+1F935	</item>
+<item>	U+1F935, U+1F3FB	</item>
+<item>	U+1F935, U+1F3FC	</item>
+<item>	U+1F935, U+1F3FD	</item>
+<item>	U+1F935, U+1F3FE	</item>
+<item>	U+1F935, U+1F3FF	</item>
+<item>	U+1F470	</item>
+<item>	U+1F470, U+1F3FB	</item>
+<item>	U+1F470, U+1F3FC	</item>
+<item>	U+1F470, U+1F3FD	</item>
+<item>	U+1F470, U+1F3FE	</item>
+<item>	U+1F470, U+1F3FF	</item>
+<item>	U+1F930	</item>
+<item>	U+1F930, U+1F3FB	</item>
+<item>	U+1F930, U+1F3FC	</item>
+<item>	U+1F930, U+1F3FD	</item>
+<item>	U+1F930, U+1F3FE	</item>
+<item>	U+1F930, U+1F3FF	</item>
+<item>	U+1F931	</item>
+<item>	U+1F931, U+1F3FB	</item>
+<item>	U+1F931, U+1F3FC	</item>
+<item>	U+1F931, U+1F3FD	</item>
+<item>	U+1F931, U+1F3FE	</item>
+<item>	U+1F931, U+1F3FF	</item>
+<item>	U+1F47C	</item>
+<item>	U+1F47C, U+1F3FB	</item>
+<item>	U+1F47C, U+1F3FC	</item>
+<item>	U+1F47C, U+1F3FD	</item>
+<item>	U+1F47C, U+1F3FE	</item>
+<item>	U+1F47C, U+1F3FF	</item>
+<item>	U+1F385	</item>
+<item>	U+1F385, U+1F3FB	</item>
+<item>	U+1F385, U+1F3FC	</item>
+<item>	U+1F385, U+1F3FD	</item>
+<item>	U+1F385, U+1F3FE	</item>
+<item>	U+1F385, U+1F3FF	</item>
+<item>	U+1F936	</item>
+<item>	U+1F936, U+1F3FB	</item>
+<item>	U+1F936, U+1F3FC	</item>
+<item>	U+1F936, U+1F3FD	</item>
+<item>	U+1F936, U+1F3FE	</item>
+<item>	U+1F936, U+1F3FF	</item>
+<item>	U+1F9B8	</item>
+<item>	U+1F9B8, U+1F3FB	</item>
+<item>	U+1F9B8, U+1F3FC	</item>
+<item>	U+1F9B8, U+1F3FD	</item>
+<item>	U+1F9B8, U+1F3FE	</item>
+<item>	U+1F9B8, U+1F3FF	</item>
+<item>	U+1F9B8, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B8, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B8, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9	</item>
+<item>	U+1F9B9, U+1F3FB	</item>
+<item>	U+1F9B9, U+1F3FC	</item>
+<item>	U+1F9B9, U+1F3FD	</item>
+<item>	U+1F9B9, U+1F3FE	</item>
+<item>	U+1F9B9, U+1F3FF	</item>
+<item>	U+1F9B9, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9B9, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9B9, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9	</item>
+<item>	U+1F9D9, U+1F3FB	</item>
+<item>	U+1F9D9, U+1F3FC	</item>
+<item>	U+1F9D9, U+1F3FD	</item>
+<item>	U+1F9D9, U+1F3FE	</item>
+<item>	U+1F9D9, U+1F3FF	</item>
+<item>	U+1F9D9, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D9, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D9, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA	</item>
+<item>	U+1F9DA, U+1F3FB	</item>
+<item>	U+1F9DA, U+1F3FC	</item>
+<item>	U+1F9DA, U+1F3FD	</item>
+<item>	U+1F9DA, U+1F3FE	</item>
+<item>	U+1F9DA, U+1F3FF	</item>
+<item>	U+1F9DA, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DA, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DA, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB	</item>
+<item>	U+1F9DB, U+1F3FB	</item>
+<item>	U+1F9DB, U+1F3FC	</item>
+<item>	U+1F9DB, U+1F3FD	</item>
+<item>	U+1F9DB, U+1F3FE	</item>
+<item>	U+1F9DB, U+1F3FF	</item>
+<item>	U+1F9DB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DB, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC	</item>
+<item>	U+1F9DC, U+1F3FB	</item>
+<item>	U+1F9DC, U+1F3FC	</item>
+<item>	U+1F9DC, U+1F3FD	</item>
+<item>	U+1F9DC, U+1F3FE	</item>
+<item>	U+1F9DC, U+1F3FF	</item>
+<item>	U+1F9DC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DC, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD	</item>
+<item>	U+1F9DD, U+1F3FB	</item>
+<item>	U+1F9DD, U+1F3FC	</item>
+<item>	U+1F9DD, U+1F3FD	</item>
+<item>	U+1F9DD, U+1F3FE	</item>
+<item>	U+1F9DD, U+1F3FF	</item>
+<item>	U+1F9DD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DD, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DE	</item>
+<item>	U+1F9DE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9DF	</item>
+<item>	U+1F9DF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9DF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486	</item>
+<item>	U+1F486, U+1F3FB	</item>
+<item>	U+1F486, U+1F3FC	</item>
+<item>	U+1F486, U+1F3FD	</item>
+<item>	U+1F486, U+1F3FE	</item>
+<item>	U+1F486, U+1F3FF	</item>
+<item>	U+1F486, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F486, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F486, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487	</item>
+<item>	U+1F487, U+1F3FB	</item>
+<item>	U+1F487, U+1F3FC	</item>
+<item>	U+1F487, U+1F3FD	</item>
+<item>	U+1F487, U+1F3FE	</item>
+<item>	U+1F487, U+1F3FF	</item>
+<item>	U+1F487, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F487, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F487, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6	</item>
+<item>	U+1F6B6, U+1F3FB	</item>
+<item>	U+1F6B6, U+1F3FC	</item>
+<item>	U+1F6B6, U+1F3FD	</item>
+<item>	U+1F6B6, U+1F3FE	</item>
+<item>	U+1F6B6, U+1F3FF	</item>
+<item>	U+1F6B6, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B6, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B6, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD	</item>
+<item>	U+1F9CD, U+1F3FB	</item>
+<item>	U+1F9CD, U+1F3FC	</item>
+<item>	U+1F9CD, U+1F3FD	</item>
+<item>	U+1F9CD, U+1F3FE	</item>
+<item>	U+1F9CD, U+1F3FF	</item>
+<item>	U+1F9CD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CD, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE	</item>
+<item>	U+1F9CE, U+1F3FB	</item>
+<item>	U+1F9CE, U+1F3FC	</item>
+<item>	U+1F9CE, U+1F3FD	</item>
+<item>	U+1F9CE, U+1F3FE	</item>
+<item>	U+1F9CE, U+1F3FF	</item>
+<item>	U+1F9CE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9CE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9CE, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F468, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9AF	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9AF	</item>
+<item>	U+1F468, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9BC	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9BC	</item>
+<item>	U+1F468, U+200D, U+1F9BD	</item>
+<item>	U+1F468, U+1F3FB, U+200D, U+1F9BD	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F9BD	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F9BD	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F9BD	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F9BD	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F9BD	</item>
+<item>	U+1F3C3	</item>
+<item>	U+1F3C3, U+1F3FB	</item>
+<item>	U+1F3C3, U+1F3FC	</item>
+<item>	U+1F3C3, U+1F3FD	</item>
+<item>	U+1F3C3, U+1F3FE	</item>
+<item>	U+1F3C3, U+1F3FF	</item>
+<item>	U+1F3C3, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C3, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C3, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F483	</item>
+<item>	U+1F483, U+1F3FB	</item>
+<item>	U+1F483, U+1F3FC	</item>
+<item>	U+1F483, U+1F3FD	</item>
+<item>	U+1F483, U+1F3FE	</item>
+<item>	U+1F483, U+1F3FF	</item>
+<item>	U+1F57A	</item>
+<item>	U+1F57A, U+1F3FB	</item>
+<item>	U+1F57A, U+1F3FC	</item>
+<item>	U+1F57A, U+1F3FD	</item>
+<item>	U+1F57A, U+1F3FE	</item>
+<item>	U+1F57A, U+1F3FF	</item>
+<item>	U+1F574, U+FE0F	</item>
+<item>	U+1F574, U+1F3FB	</item>
+<item>	U+1F574, U+1F3FC	</item>
+<item>	U+1F574, U+1F3FD	</item>
+<item>	U+1F574, U+1F3FE	</item>
+<item>	U+1F574, U+1F3FF	</item>
+<item>	U+1F46F	</item>
+<item>	U+1F46F, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6	</item>
+<item>	U+1F9D6, U+1F3FB	</item>
+<item>	U+1F9D6, U+1F3FC	</item>
+<item>	U+1F9D6, U+1F3FD	</item>
+<item>	U+1F9D6, U+1F3FE	</item>
+<item>	U+1F9D6, U+1F3FF	</item>
+<item>	U+1F9D6, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D6, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D6, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F46F, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7	</item>
+<item>	U+1F9D7, U+1F3FB	</item>
+<item>	U+1F9D7, U+1F3FC	</item>
+<item>	U+1F9D7, U+1F3FD	</item>
+<item>	U+1F9D7, U+1F3FE	</item>
+<item>	U+1F9D7, U+1F3FF	</item>
+<item>	U+1F9D7, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D7, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D7, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93A	</item>
+<item>	U+1F3C7	</item>
+<item>	U+1F3C7, U+1F3FB	</item>
+<item>	U+1F3C7, U+1F3FC	</item>
+<item>	U+1F3C7, U+1F3FD	</item>
+<item>	U+1F3C7, U+1F3FE	</item>
+<item>	U+1F3C7, U+1F3FF	</item>
+<item>	U+26F7, U+FE0F	</item>
+<item>	U+1F3C2	</item>
+<item>	U+1F3C2, U+1F3FB	</item>
+<item>	U+1F3C2, U+1F3FC	</item>
+<item>	U+1F3C2, U+1F3FD	</item>
+<item>	U+1F3C2, U+1F3FE	</item>
+<item>	U+1F3C2, U+1F3FF	</item>
+<item>	U+1F3CC, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FB	</item>
+<item>	U+1F3CC, U+1F3FC	</item>
+<item>	U+1F3CC, U+1F3FD	</item>
+<item>	U+1F3CC, U+1F3FE	</item>
+<item>	U+1F3CC, U+1F3FF	</item>
+<item>	U+1F3CC, U+FE0F, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CC, U+FE0F, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CC, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4	</item>
+<item>	U+1F3C4, U+1F3FB	</item>
+<item>	U+1F3C4, U+1F3FC	</item>
+<item>	U+1F3C4, U+1F3FD	</item>
+<item>	U+1F3C4, U+1F3FE	</item>
+<item>	U+1F3C4, U+1F3FF	</item>
+<item>	U+1F3C4, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3C4, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3C4, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3	</item>
+<item>	U+1F6A3, U+1F3FB	</item>
+<item>	U+1F6A3, U+1F3FC	</item>
+<item>	U+1F6A3, U+1F3FD	</item>
+<item>	U+1F6A3, U+1F3FE	</item>
+<item>	U+1F6A3, U+1F3FF	</item>
+<item>	U+1F6A3, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6A3, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6A3, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA	</item>
+<item>	U+1F3CA, U+1F3FB	</item>
+<item>	U+1F3CA, U+1F3FC	</item>
+<item>	U+1F3CA, U+1F3FD	</item>
+<item>	U+1F3CA, U+1F3FE	</item>
+<item>	U+1F3CA, U+1F3FF	</item>
+<item>	U+1F3CA, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CA, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CA, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+FE0F	</item>
+<item>	U+26F9, U+1F3FB	</item>
+<item>	U+26F9, U+1F3FC	</item>
+<item>	U+26F9, U+1F3FD	</item>
+<item>	U+26F9, U+1F3FE	</item>
+<item>	U+26F9, U+1F3FF	</item>
+<item>	U+26F9, U+FE0F, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+26F9, U+FE0F, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+26F9, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FB	</item>
+<item>	U+1F3CB, U+1F3FC	</item>
+<item>	U+1F3CB, U+1F3FD	</item>
+<item>	U+1F3CB, U+1F3FE	</item>
+<item>	U+1F3CB, U+1F3FF	</item>
+<item>	U+1F3CB, U+FE0F, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F3CB, U+FE0F, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F3CB, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4	</item>
+<item>	U+1F6B4, U+1F3FB	</item>
+<item>	U+1F6B4, U+1F3FC	</item>
+<item>	U+1F6B4, U+1F3FD	</item>
+<item>	U+1F6B4, U+1F3FE	</item>
+<item>	U+1F6B4, U+1F3FF	</item>
+<item>	U+1F6B4, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B4, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B4, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5	</item>
+<item>	U+1F6B5, U+1F3FB	</item>
+<item>	U+1F6B5, U+1F3FC	</item>
+<item>	U+1F6B5, U+1F3FD	</item>
+<item>	U+1F6B5, U+1F3FE	</item>
+<item>	U+1F6B5, U+1F3FF	</item>
+<item>	U+1F6B5, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F6B5, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6B5, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938	</item>
+<item>	U+1F938, U+1F3FB	</item>
+<item>	U+1F938, U+1F3FC	</item>
+<item>	U+1F938, U+1F3FD	</item>
+<item>	U+1F938, U+1F3FE	</item>
+<item>	U+1F938, U+1F3FF	</item>
+<item>	U+1F938, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F938, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F938, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C	</item>
+<item>	U+1F93C, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93D	</item>
+<item>	U+1F93D, U+1F3FB	</item>
+<item>	U+1F93D, U+1F3FC	</item>
+<item>	U+1F93D, U+1F3FD	</item>
+<item>	U+1F93D, U+1F3FE	</item>
+<item>	U+1F93D, U+1F3FF	</item>
+<item>	U+1F93D, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93D, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93D, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FB	</item>
+<item>	U+1F93D, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FC	</item>
+<item>	U+1F93D, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FD	</item>
+<item>	U+1F93C, U+1F3FE	</item>
+<item>	U+1F93C, U+1F3FF	</item>
+<item>	U+1F93E	</item>
+<item>	U+1F93E, U+1F3FB	</item>
+<item>	U+1F93E, U+1F3FC	</item>
+<item>	U+1F93C, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FD	</item>
+<item>	U+1F93E, U+1F3FE	</item>
+<item>	U+1F93E, U+1F3FF	</item>
+<item>	U+1F93C, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93C, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F93E, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939	</item>
+<item>	U+1F939, U+1F3FB	</item>
+<item>	U+1F939, U+1F3FC	</item>
+<item>	U+1F939, U+1F3FD	</item>
+<item>	U+1F939, U+1F3FE	</item>
+<item>	U+1F939, U+1F3FF	</item>
+<item>	U+1F939, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F939, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F939, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8	</item>
+<item>	U+1F9D8, U+1F3FB	</item>
+<item>	U+1F9D8, U+1F3FC	</item>
+<item>	U+1F9D8, U+1F3FD	</item>
+<item>	U+1F9D8, U+1F3FE	</item>
+<item>	U+1F9D8, U+1F3FF	</item>
+<item>	U+1F9D8, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FB, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FC, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FD, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FE, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FF, U+200D, U+2642, U+FE0F	</item>
+<item>	U+1F9D8, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FB, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FC, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FD, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FE, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F9D8, U+1F3FF, U+200D, U+2640, U+FE0F	</item>
+<item>	U+1F6C0	</item>
+<item>	U+1F6C0, U+1F3FB	</item>
+<item>	U+1F6C0, U+1F3FC	</item>
+<item>	U+1F6C0, U+1F3FD	</item>
+<item>	U+1F6C0, U+1F3FE	</item>
+<item>	U+1F6C0, U+1F3FF	</item>
+<item>	U+1F6CC	</item>
+<item>	U+1F6CC, U+1F3FB	</item>
+<item>	U+1F6CC, U+1F3FC	</item>
+<item>	U+1F6CC, U+1F3FD	</item>
+<item>	U+1F6CC, U+1F3FE	</item>
+<item>	U+1F6CC, U+1F3FF	</item>
+<item>	U+1F9D1, U+200D, U+1F91D, U+200D, U+1F9D1	</item>
+<item>	U+1F9D1, U+1F3FB, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FC	</item>
+<item>	U+1F9D1, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FC	</item>
+<item>	U+1F9D1, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FD	</item>
+<item>	U+1F9D1, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FC	</item>
+<item>	U+1F9D1, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FD	</item>
+<item>	U+1F9D1, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FE	</item>
+<item>	U+1F9D1, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FB	</item>
+<item>	U+1F9D1, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FC	</item>
+<item>	U+1F9D1, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FD	</item>
+<item>	U+1F9D1, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FE	</item>
+<item>	U+1F9D1, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F9D1, U+1F3FF	</item>
+<item>	U+1F46D	</item>
+<item>	U+1F46D, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FB	</item>
+<item>	U+1F46D, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FC	</item>
+<item>	U+1F46D, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FD	</item>
+<item>	U+1F46D, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F469, U+1F3FE	</item>
+<item>	U+1F46D, U+1F3FF	</item>
+<item>	U+1F46B	</item>
+<item>	U+1F46B, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FB, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FF	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F46B, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FF	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F46B, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FF	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F46B, U+1F3FE	</item>
+<item>	U+1F469, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FF	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F469, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FE	</item>
+<item>	U+1F46B, U+1F3FF	</item>
+<item>	U+1F46C	</item>
+<item>	U+1F46C, U+1F3FB	</item>
+<item>	U+1F468, U+1F3FC, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F46C, U+1F3FC	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F468, U+1F3FD, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F46C, U+1F3FD	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F468, U+1F3FE, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F46C, U+1F3FE	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FB	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FC	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FD	</item>
+<item>	U+1F468, U+1F3FF, U+200D, U+1F91D, U+200D, U+1F468, U+1F3FE	</item>
+<item>	U+1F46C, U+1F3FF	</item>
+<item>	U+1F48F	</item>
+<item>	U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F468	</item>
+<item>	U+1F468, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F468	</item>
+<item>	U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F48B, U+200D, U+1F469	</item>
+<item>	U+1F491	</item>
+<item>	U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F468	</item>
+<item>	U+1F468, U+200D, U+2764, U+FE0F, U+200D, U+1F468	</item>
+<item>	U+1F469, U+200D, U+2764, U+FE0F, U+200D, U+1F469	</item>
+<item>	U+1F46A	</item>
+<item>	U+1F468, U+200D, U+1F469, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F469, U+200D, U+1F467	</item>
+<item>	U+1F468, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F469, U+200D, U+1F466, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F467	</item>
+<item>	U+1F468, U+200D, U+1F468, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F468, U+200D, U+1F467	</item>
+<item>	U+1F468, U+200D, U+1F468, U+200D, U+1F467, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F468, U+200D, U+1F466, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F468, U+200D, U+1F467, U+200D, U+1F467	</item>
+<item>	U+1F469, U+200D, U+1F469, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F469, U+200D, U+1F467	</item>
+<item>	U+1F469, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F469, U+200D, U+1F466, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F469, U+200D, U+1F467, U+200D, U+1F467	</item>
+<item>	U+1F468, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F466, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F467	</item>
+<item>	U+1F468, U+200D, U+1F467, U+200D, U+1F466	</item>
+<item>	U+1F468, U+200D, U+1F467, U+200D, U+1F467	</item>
+<item>	U+1F469, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F466, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F467	</item>
+<item>	U+1F469, U+200D, U+1F467, U+200D, U+1F466	</item>
+<item>	U+1F469, U+200D, U+1F467, U+200D, U+1F467	</item>
+<item>	U+1F5E3, U+FE0F	</item>
+<item>	U+1F464	</item>
+<item>	U+1F465	</item>
+<item>	U+1F463	</item>
+<item>	U+1F3FB	</item>
+<item>	U+1F3FC	</item>
+<item>	U+1F3FD	</item>
+<item>	U+1F3FE	</item>
+<item>	U+1F3FF	</item>
+<item>	U+1F9B0	</item>
+<item>	U+1F9B1	</item>
+<item>	U+1F9B3	</item>
+<item>	U+1F9B2	</item>
+<item>	U+1F435	</item>
+<item>	U+1F412	</item>
+<item>	U+1F98D	</item>
+<item>	U+1F9A7	</item>
+<item>	U+1F436	</item>
+<item>	U+1F415	</item>
+<item>	U+1F9AE	</item>
+<item>	U+1F415, U+200D, U+1F9BA	</item>
+<item>	U+1F429	</item>
+<item>	U+1F43A	</item>
+<item>	U+1F98A	</item>
+<item>	U+1F99D	</item>
+<item>	U+1F431	</item>
+<item>	U+1F408	</item>
+<item>	U+1F981	</item>
+<item>	U+1F42F	</item>
+<item>	U+1F405	</item>
+<item>	U+1F406	</item>
+<item>	U+1F434	</item>
+<item>	U+1F40E	</item>
+<item>	U+1F984	</item>
+<item>	U+1F993	</item>
+<item>	U+1F98C	</item>
+<item>	U+1F42E	</item>
+<item>	U+1F402	</item>
+<item>	U+1F403	</item>
+<item>	U+1F404	</item>
+<item>	U+1F437	</item>
+<item>	U+1F416	</item>
+<item>	U+1F417	</item>
+<item>	U+1F43D	</item>
+<item>	U+1F40F	</item>
+<item>	U+1F411	</item>
+<item>	U+1F410	</item>
+<item>	U+1F42A	</item>
+<item>	U+1F42B	</item>
+<item>	U+1F999	</item>
+<item>	U+1F992	</item>
+<item>	U+1F418	</item>
+<item>	U+1F98F	</item>
+<item>	U+1F99B	</item>
+<item>	U+1F42D	</item>
+<item>	U+1F401	</item>
+<item>	U+1F400	</item>
+<item>	U+1F439	</item>
+<item>	U+1F430	</item>
+<item>	U+1F407	</item>
+<item>	U+1F43F, U+FE0F	</item>
+<item>	U+1F994	</item>
+<item>	U+1F987	</item>
+<item>	U+1F43B	</item>
+<item>	U+1F428	</item>
+<item>	U+1F43C	</item>
+<item>	U+1F9A5	</item>
+<item>	U+1F9A6	</item>
+<item>	U+1F9A8	</item>
+<item>	U+1F998	</item>
+<item>	U+1F9A1	</item>
+<item>	U+1F43E	</item>
+<item>	U+1F983	</item>
+<item>	U+1F414	</item>
+<item>	U+1F413	</item>
+<item>	U+1F423	</item>
+<item>	U+1F424	</item>
+<item>	U+1F425	</item>
+<item>	U+1F426	</item>
+<item>	U+1F427	</item>
+<item>	U+1F54A, U+FE0F	</item>
+<item>	U+1F985	</item>
+<item>	U+1F986	</item>
+<item>	U+1F9A2	</item>
+<item>	U+1F989	</item>
+<item>	U+1F9A9	</item>
+<item>	U+1F99A	</item>
+<item>	U+1F99C	</item>
+<item>	U+1F438	</item>
+<item>	U+1F40A	</item>
+<item>	U+1F422	</item>
+<item>	U+1F98E	</item>
+<item>	U+1F40D	</item>
+<item>	U+1F432	</item>
+<item>	U+1F409	</item>
+<item>	U+1F995	</item>
+<item>	U+1F996	</item>
+<item>	U+1F433	</item>
+<item>	U+1F40B	</item>
+<item>	U+1F42C	</item>
+<item>	U+1F41F	</item>
+<item>	U+1F420	</item>
+<item>	U+1F421	</item>
+<item>	U+1F988	</item>
+<item>	U+1F419	</item>
+<item>	U+1F41A	</item>
+<item>	U+1F40C	</item>
+<item>	U+1F98B	</item>
+<item>	U+1F41B	</item>
+<item>	U+1F41C	</item>
+<item>	U+1F41D	</item>
+<item>	U+1F41E	</item>
+<item>	U+1F997	</item>
+<item>	U+1F577, U+FE0F	</item>
+<item>	U+1F578, U+FE0F	</item>
+<item>	U+1F982	</item>
+<item>	U+1F99F	</item>
+<item>	U+1F9A0	</item>
+<item>	U+1F490	</item>
+<item>	U+1F338	</item>
+<item>	U+1F4AE	</item>
+<item>	U+1F3F5, U+FE0F	</item>
+<item>	U+1F339	</item>
+<item>	U+1F940	</item>
+<item>	U+1F33A	</item>
+<item>	U+1F33B	</item>
+<item>	U+1F33C	</item>
+<item>	U+1F337	</item>
+<item>	U+1F331	</item>
+<item>	U+1F332	</item>
+<item>	U+1F333	</item>
+<item>	U+1F334	</item>
+<item>	U+1F335	</item>
+<item>	U+1F33E	</item>
+<item>	U+1F33F	</item>
+<item>	U+2618, U+FE0F	</item>
+<item>	U+1F340	</item>
+<item>	U+1F341	</item>
+<item>	U+1F342	</item>
+<item>	U+1F343	</item>
+<item>	U+1F347	</item>
+<item>	U+1F348	</item>
+<item>	U+1F349	</item>
+<item>	U+1F34A	</item>
+<item>	U+1F34B	</item>
+<item>	U+1F34C	</item>
+<item>	U+1F34D	</item>
+<item>	U+1F96D	</item>
+<item>	U+1F34E	</item>
+<item>	U+1F34F	</item>
+<item>	U+1F350	</item>
+<item>	U+1F351	</item>
+<item>	U+1F352	</item>
+<item>	U+1F353	</item>
+<item>	U+1F95D	</item>
+<item>	U+1F345	</item>
+<item>	U+1F965	</item>
+<item>	U+1F951	</item>
+<item>	U+1F346	</item>
+<item>	U+1F954	</item>
+<item>	U+1F955	</item>
+<item>	U+1F33D	</item>
+<item>	U+1F336, U+FE0F	</item>
+<item>	U+1F952	</item>
+<item>	U+1F96C	</item>
+<item>	U+1F966	</item>
+<item>	U+1F9C4	</item>
+<item>	U+1F9C5	</item>
+<item>	U+1F344	</item>
+<item>	U+1F95C	</item>
+<item>	U+1F330	</item>
+<item>	U+1F35E	</item>
+<item>	U+1F950	</item>
+<item>	U+1F956	</item>
+<item>	U+1F968	</item>
+<item>	U+1F96F	</item>
+<item>	U+1F95E	</item>
+<item>	U+1F9C7	</item>
+<item>	U+1F9C0	</item>
+<item>	U+1F356	</item>
+<item>	U+1F357	</item>
+<item>	U+1F969	</item>
+<item>	U+1F953	</item>
+<item>	U+1F354	</item>
+<item>	U+1F35F	</item>
+<item>	U+1F355	</item>
+<item>	U+1F32D	</item>
+<item>	U+1F96A	</item>
+<item>	U+1F32E	</item>
+<item>	U+1F32F	</item>
+<item>	U+1F959	</item>
+<item>	U+1F9C6	</item>
+<item>	U+1F95A	</item>
+<item>	U+1F373	</item>
+<item>	U+1F958	</item>
+<item>	U+1F372	</item>
+<item>	U+1F963	</item>
+<item>	U+1F957	</item>
+<item>	U+1F37F	</item>
+<item>	U+1F9C8	</item>
+<item>	U+1F9C2	</item>
+<item>	U+1F96B	</item>
+<item>	U+1F371	</item>
+<item>	U+1F358	</item>
+<item>	U+1F359	</item>
+<item>	U+1F35A	</item>
+<item>	U+1F35B	</item>
+<item>	U+1F35C	</item>
+<item>	U+1F35D	</item>
+<item>	U+1F360	</item>
+<item>	U+1F362	</item>
+<item>	U+1F363	</item>
+<item>	U+1F364	</item>
+<item>	U+1F365	</item>
+<item>	U+1F96E	</item>
+<item>	U+1F361	</item>
+<item>	U+1F95F	</item>
+<item>	U+1F960	</item>
+<item>	U+1F961	</item>
+<item>	U+1F980	</item>
+<item>	U+1F99E	</item>
+<item>	U+1F990	</item>
+<item>	U+1F991	</item>
+<item>	U+1F9AA	</item>
+<item>	U+1F366	</item>
+<item>	U+1F367	</item>
+<item>	U+1F368	</item>
+<item>	U+1F369	</item>
+<item>	U+1F36A	</item>
+<item>	U+1F382	</item>
+<item>	U+1F370	</item>
+<item>	U+1F9C1	</item>
+<item>	U+1F967	</item>
+<item>	U+1F36B	</item>
+<item>	U+1F36C	</item>
+<item>	U+1F36D	</item>
+<item>	U+1F36E	</item>
+<item>	U+1F36F	</item>
+<item>	U+1F37C	</item>
+<item>	U+1F95B	</item>
+<item>	U+2615	</item>
+<item>	U+1F375	</item>
+<item>	U+1F376	</item>
+<item>	U+1F37E	</item>
+<item>	U+1F377	</item>
+<item>	U+1F378	</item>
+<item>	U+1F379	</item>
+<item>	U+1F37A	</item>
+<item>	U+1F37B	</item>
+<item>	U+1F942	</item>
+<item>	U+1F943	</item>
+<item>	U+1F964	</item>
+<item>	U+1F9C3	</item>
+<item>	U+1F9C9	</item>
+<item>	U+1F9CA	</item>
+<item>	U+1F962	</item>
+<item>	U+1F37D, U+FE0F	</item>
+<item>	U+1F374	</item>
+<item>	U+1F944	</item>
+<item>	U+1F52A	</item>
+<item>	U+1F3FA	</item>
+<item>	U+1F30D	</item>
+<item>	U+1F30E	</item>
+<item>	U+1F30F	</item>
+<item>	U+1F310	</item>
+<item>	U+1F5FA, U+FE0F	</item>
+<item>	U+1F5FE	</item>
+<item>	U+1F9ED	</item>
+<item>	U+1F3D4, U+FE0F	</item>
+<item>	U+26F0, U+FE0F	</item>
+<item>	U+1F30B	</item>
+<item>	U+1F5FB	</item>
+<item>	U+1F3D5, U+FE0F	</item>
+<item>	U+1F3D6, U+FE0F	</item>
+<item>	U+1F3DC, U+FE0F	</item>
+<item>	U+1F3DD, U+FE0F	</item>
+<item>	U+1F3DE, U+FE0F	</item>
+<item>	U+1F3DF, U+FE0F	</item>
+<item>	U+1F3DB, U+FE0F	</item>
+<item>	U+1F3D7, U+FE0F	</item>
+<item>	U+1F9F1	</item>
+<item>	U+1F3D8, U+FE0F	</item>
+<item>	U+1F3DA, U+FE0F	</item>
+<item>	U+1F3E0	</item>
+<item>	U+1F3E1	</item>
+<item>	U+1F3E2	</item>
+<item>	U+1F3E3	</item>
+<item>	U+1F3E4	</item>
+<item>	U+1F3E5	</item>
+<item>	U+1F3E6	</item>
+<item>	U+1F3E8	</item>
+<item>	U+1F3E9	</item>
+<item>	U+1F3EA	</item>
+<item>	U+1F3EB	</item>
+<item>	U+1F3EC	</item>
+<item>	U+1F3ED	</item>
+<item>	U+1F3EF	</item>
+<item>	U+1F3F0	</item>
+<item>	U+1F492	</item>
+<item>	U+1F5FC	</item>
+<item>	U+1F5FD	</item>
+<item>	U+26EA	</item>
+<item>	U+1F54C	</item>
+<item>	U+1F6D5	</item>
+<item>	U+1F54D	</item>
+<item>	U+26E9, U+FE0F	</item>
+<item>	U+1F54B	</item>
+<item>	U+26F2	</item>
+<item>	U+26FA	</item>
+<item>	U+1F301	</item>
+<item>	U+1F303	</item>
+<item>	U+1F3D9, U+FE0F	</item>
+<item>	U+1F304	</item>
+<item>	U+1F305	</item>
+<item>	U+1F306	</item>
+<item>	U+1F307	</item>
+<item>	U+1F309	</item>
+<item>	U+2668, U+FE0F	</item>
+<item>	U+1F3A0	</item>
+<item>	U+1F3A1	</item>
+<item>	U+1F3A2	</item>
+<item>	U+1F488	</item>
+<item>	U+1F3AA	</item>
+<item>	U+1F682	</item>
+<item>	U+1F683	</item>
+<item>	U+1F684	</item>
+<item>	U+1F685	</item>
+<item>	U+1F686	</item>
+<item>	U+1F687	</item>
+<item>	U+1F688	</item>
+<item>	U+1F689	</item>
+<item>	U+1F68A	</item>
+<item>	U+1F69D	</item>
+<item>	U+1F69E	</item>
+<item>	U+1F68B	</item>
+<item>	U+1F68C	</item>
+<item>	U+1F68D	</item>
+<item>	U+1F68E	</item>
+<item>	U+1F690	</item>
+<item>	U+1F691	</item>
+<item>	U+1F692	</item>
+<item>	U+1F693	</item>
+<item>	U+1F694	</item>
+<item>	U+1F695	</item>
+<item>	U+1F696	</item>
+<item>	U+1F697	</item>
+<item>	U+1F698	</item>
+<item>	U+1F699	</item>
+<item>	U+1F69A	</item>
+<item>	U+1F69B	</item>
+<item>	U+1F69C	</item>
+<item>	U+1F3CE, U+FE0F	</item>
+<item>	U+1F3CD, U+FE0F	</item>
+<item>	U+1F6F5	</item>
+<item>	U+1F9BD	</item>
+<item>	U+1F9BC	</item>
+<item>	U+1F6FA	</item>
+<item>	U+1F6B2	</item>
+<item>	U+1F6F4	</item>
+<item>	U+1F6F9	</item>
+<item>	U+1F68F	</item>
+<item>	U+1F6E3, U+FE0F	</item>
+<item>	U+1F6E4, U+FE0F	</item>
+<item>	U+1F6E2, U+FE0F	</item>
+<item>	U+26FD	</item>
+<item>	U+1F6A8	</item>
+<item>	U+1F6A5	</item>
+<item>	U+1F6A6	</item>
+<item>	U+1F6D1	</item>
+<item>	U+1F6A7	</item>
+<item>	U+2693	</item>
+<item>	U+26F5	</item>
+<item>	U+1F6F6	</item>
+<item>	U+1F6A4	</item>
+<item>	U+1F6F3, U+FE0F	</item>
+<item>	U+26F4, U+FE0F	</item>
+<item>	U+1F6E5, U+FE0F	</item>
+<item>	U+1F6A2	</item>
+<item>	U+2708, U+FE0F	</item>
+<item>	U+1F6E9, U+FE0F	</item>
+<item>	U+1F6EB	</item>
+<item>	U+1F6EC	</item>
+<item>	U+1FA82	</item>
+<item>	U+1F4BA	</item>
+<item>	U+1F681	</item>
+<item>	U+1F69F	</item>
+<item>	U+1F6A0	</item>
+<item>	U+1F6A1	</item>
+<item>	U+1F6F0, U+FE0F	</item>
+<item>	U+1F680	</item>
+<item>	U+1F6F8	</item>
+<item>	U+1F6CE, U+FE0F	</item>
+<item>	U+1F9F3	</item>
+<item>	U+231B	</item>
+<item>	U+23F3	</item>
+<item>	U+231A	</item>
+<item>	U+23F0	</item>
+<item>	U+23F1, U+FE0F	</item>
+<item>	U+23F2, U+FE0F	</item>
+<item>	U+1F570, U+FE0F	</item>
+<item>	U+1F55B	</item>
+<item>	U+1F567	</item>
+<item>	U+1F550	</item>
+<item>	U+1F55C	</item>
+<item>	U+1F551	</item>
+<item>	U+1F55D	</item>
+<item>	U+1F552	</item>
+<item>	U+1F55E	</item>
+<item>	U+1F553	</item>
+<item>	U+1F55F	</item>
+<item>	U+1F554	</item>
+<item>	U+1F560	</item>
+<item>	U+1F555	</item>
+<item>	U+1F561	</item>
+<item>	U+1F556	</item>
+<item>	U+1F562	</item>
+<item>	U+1F557	</item>
+<item>	U+1F563	</item>
+<item>	U+1F558	</item>
+<item>	U+1F564	</item>
+<item>	U+1F559	</item>
+<item>	U+1F565	</item>
+<item>	U+1F55A	</item>
+<item>	U+1F566	</item>
+<item>	U+1F311	</item>
+<item>	U+1F312	</item>
+<item>	U+1F313	</item>
+<item>	U+1F314	</item>
+<item>	U+1F315	</item>
+<item>	U+1F316	</item>
+<item>	U+1F317	</item>
+<item>	U+1F318	</item>
+<item>	U+1F319	</item>
+<item>	U+1F31A	</item>
+<item>	U+1F31B	</item>
+<item>	U+1F31C	</item>
+<item>	U+1F321, U+FE0F	</item>
+<item>	U+2600, U+FE0F	</item>
+<item>	U+1F31D	</item>
+<item>	U+1F31E	</item>
+<item>	U+1FA90	</item>
+<item>	U+2B50	</item>
+<item>	U+1F31F	</item>
+<item>	U+1F320	</item>
+<item>	U+1F30C	</item>
+<item>	U+2601, U+FE0F	</item>
+<item>	U+26C5	</item>
+<item>	U+26C8, U+FE0F	</item>
+<item>	U+1F324, U+FE0F	</item>
+<item>	U+1F325, U+FE0F	</item>
+<item>	U+1F326, U+FE0F	</item>
+<item>	U+1F327, U+FE0F	</item>
+<item>	U+1F328, U+FE0F	</item>
+<item>	U+1F329, U+FE0F	</item>
+<item>	U+1F32A, U+FE0F	</item>
+<item>	U+1F32B, U+FE0F	</item>
+<item>	U+1F32C, U+FE0F	</item>
+<item>	U+1F300	</item>
+<item>	U+1F308	</item>
+<item>	U+1F302	</item>
+<item>	U+2602, U+FE0F	</item>
+<item>	U+2614	</item>
+<item>	U+26F1, U+FE0F	</item>
+<item>	U+26A1	</item>
+<item>	U+2744, U+FE0F	</item>
+<item>	U+2603, U+FE0F	</item>
+<item>	U+26C4	</item>
+<item>	U+2604, U+FE0F	</item>
+<item>	U+1F525	</item>
+<item>	U+1F4A7	</item>
+<item>	U+1F30A	</item>
+<item>	U+1F383	</item>
+<item>	U+1F384	</item>
+<item>	U+1F386	</item>
+<item>	U+1F387	</item>
+<item>	U+1F9E8	</item>
+<item>	U+2728	</item>
+<item>	U+1F388	</item>
+<item>	U+1F389	</item>
+<item>	U+1F38A	</item>
+<item>	U+1F38B	</item>
+<item>	U+1F38D	</item>
+<item>	U+1F38E	</item>
+<item>	U+1F38F	</item>
+<item>	U+1F390	</item>
+<item>	U+1F391	</item>
+<item>	U+1F9E7	</item>
+<item>	U+1F380	</item>
+<item>	U+1F381	</item>
+<item>	U+1F397, U+FE0F	</item>
+<item>	U+1F39F, U+FE0F	</item>
+<item>	U+1F3AB	</item>
+<item>	U+1F396, U+FE0F	</item>
+<item>	U+1F3C6	</item>
+<item>	U+1F3C5	</item>
+<item>	U+1F947	</item>
+<item>	U+1F948	</item>
+<item>	U+1F949	</item>
+<item>	U+26BD	</item>
+<item>	U+26BE	</item>
+<item>	U+1F94E	</item>
+<item>	U+1F3C0	</item>
+<item>	U+1F3D0	</item>
+<item>	U+1F3C8	</item>
+<item>	U+1F3C9	</item>
+<item>	U+1F3BE	</item>
+<item>	U+1F94F	</item>
+<item>	U+1F3B3	</item>
+<item>	U+1F3CF	</item>
+<item>	U+1F3D1	</item>
+<item>	U+1F3D2	</item>
+<item>	U+1F94D	</item>
+<item>	U+1F3D3	</item>
+<item>	U+1F3F8	</item>
+<item>	U+1F94A	</item>
+<item>	U+1F94B	</item>
+<item>	U+1F945	</item>
+<item>	U+26F3	</item>
+<item>	U+26F8, U+FE0F	</item>
+<item>	U+1F3A3	</item>
+<item>	U+1F93F	</item>
+<item>	U+1F3BD	</item>
+<item>	U+1F3BF	</item>
+<item>	U+1F6F7	</item>
+<item>	U+1F94C	</item>
+<item>	U+1F3AF	</item>
+<item>	U+1FA80	</item>
+<item>	U+1FA81	</item>
+<item>	U+1F3B1	</item>
+<item>	U+1F52E	</item>
+<item>	U+1F9FF	</item>
+<item>	U+1F3AE	</item>
+<item>	U+1F579, U+FE0F	</item>
+<item>	U+1F3B0	</item>
+<item>	U+1F3B2	</item>
+<item>	U+1F9E9	</item>
+<item>	U+1F9F8	</item>
+<item>	U+2660, U+FE0F	</item>
+<item>	U+2665, U+FE0F	</item>
+<item>	U+2666, U+FE0F	</item>
+<item>	U+2663, U+FE0F	</item>
+<item>	U+265F, U+FE0F	</item>
+<item>	U+1F0CF	</item>
+<item>	U+1F004	</item>
+<item>	U+1F3B4	</item>
+<item>	U+1F3AD	</item>
+<item>	U+1F5BC, U+FE0F	</item>
+<item>	U+1F3A8	</item>
+<item>	U+1F9F5	</item>
+<item>	U+1F9F6	</item>
+<item>	U+1F453	</item>
+<item>	U+1F576, U+FE0F	</item>
+<item>	U+1F97D	</item>
+<item>	U+1F97C	</item>
+<item>	U+1F9BA	</item>
+<item>	U+1F454	</item>
+<item>	U+1F455	</item>
+<item>	U+1F456	</item>
+<item>	U+1F9E3	</item>
+<item>	U+1F9E4	</item>
+<item>	U+1F9E5	</item>
+<item>	U+1F9E6	</item>
+<item>	U+1F457	</item>
+<item>	U+1F458	</item>
+<item>	U+1F97B	</item>
+<item>	U+1FA71	</item>
+<item>	U+1FA72	</item>
+<item>	U+1FA73	</item>
+<item>	U+1F459	</item>
+<item>	U+1F45A	</item>
+<item>	U+1F45B	</item>
+<item>	U+1F45C	</item>
+<item>	U+1F45D	</item>
+<item>	U+1F6CD, U+FE0F	</item>
+<item>	U+1F392	</item>
+<item>	U+1F45E	</item>
+<item>	U+1F45F	</item>
+<item>	U+1F97E	</item>
+<item>	U+1F97F	</item>
+<item>	U+1F460	</item>
+<item>	U+1F461	</item>
+<item>	U+1FA70	</item>
+<item>	U+1F462	</item>
+<item>	U+1F451	</item>
+<item>	U+1F452	</item>
+<item>	U+1F3A9	</item>
+<item>	U+1F393	</item>
+<item>	U+1F9E2	</item>
+<item>	U+26D1, U+FE0F	</item>
+<item>	U+1F4FF	</item>
+<item>	U+1F484	</item>
+<item>	U+1F48D	</item>
+<item>	U+1F48E	</item>
+<item>	U+1F507	</item>
+<item>	U+1F508	</item>
+<item>	U+1F509	</item>
+<item>	U+1F50A	</item>
+<item>	U+1F4E2	</item>
+<item>	U+1F4E3	</item>
+<item>	U+1F4EF	</item>
+<item>	U+1F514	</item>
+<item>	U+1F515	</item>
+<item>	U+1F3BC	</item>
+<item>	U+1F3B5	</item>
+<item>	U+1F3B6	</item>
+<item>	U+1F399, U+FE0F	</item>
+<item>	U+1F39A, U+FE0F	</item>
+<item>	U+1F39B, U+FE0F	</item>
+<item>	U+1F3A4	</item>
+<item>	U+1F3A7	</item>
+<item>	U+1F4FB	</item>
+<item>	U+1F3B7	</item>
+<item>	U+1F3B8	</item>
+<item>	U+1F3B9	</item>
+<item>	U+1F3BA	</item>
+<item>	U+1F3BB	</item>
+<item>	U+1FA95	</item>
+<item>	U+1F941	</item>
+<item>	U+1F4F1	</item>
+<item>	U+1F4F2	</item>
+<item>	U+260E, U+FE0F	</item>
+<item>	U+1F4DE	</item>
+<item>	U+1F4DF	</item>
+<item>	U+1F4E0	</item>
+<item>	U+1F50B	</item>
+<item>	U+1F50C	</item>
+<item>	U+1F4BB	</item>
+<item>	U+1F5A5, U+FE0F	</item>
+<item>	U+1F5A8, U+FE0F	</item>
+<item>	U+2328, U+FE0F	</item>
+<item>	U+1F5B1, U+FE0F	</item>
+<item>	U+1F5B2, U+FE0F	</item>
+<item>	U+1F4BD	</item>
+<item>	U+1F4BE	</item>
+<item>	U+1F4BF	</item>
+<item>	U+1F4C0	</item>
+<item>	U+1F9EE	</item>
+<item>	U+1F3A5	</item>
+<item>	U+1F39E, U+FE0F	</item>
+<item>	U+1F4FD, U+FE0F	</item>
+<item>	U+1F3AC	</item>
+<item>	U+1F4FA	</item>
+<item>	U+1F4F7	</item>
+<item>	U+1F4F8	</item>
+<item>	U+1F4F9	</item>
+<item>	U+1F4FC	</item>
+<item>	U+1F50D	</item>
+<item>	U+1F50E	</item>
+<item>	U+1F56F, U+FE0F	</item>
+<item>	U+1F4A1	</item>
+<item>	U+1F526	</item>
+<item>	U+1F3EE	</item>
+<item>	U+1FA94	</item>
+<item>	U+1F4D4	</item>
+<item>	U+1F4D5	</item>
+<item>	U+1F4D6	</item>
+<item>	U+1F4D7	</item>
+<item>	U+1F4D8	</item>
+<item>	U+1F4D9	</item>
+<item>	U+1F4DA	</item>
+<item>	U+1F4D3	</item>
+<item>	U+1F4D2	</item>
+<item>	U+1F4C3	</item>
+<item>	U+1F4DC	</item>
+<item>	U+1F4C4	</item>
+<item>	U+1F4F0	</item>
+<item>	U+1F5DE, U+FE0F	</item>
+<item>	U+1F4D1	</item>
+<item>	U+1F516	</item>
+<item>	U+1F3F7, U+FE0F	</item>
+<item>	U+1F4B0	</item>
+<item>	U+1F4B4	</item>
+<item>	U+1F4B5	</item>
+<item>	U+1F4B6	</item>
+<item>	U+1F4B7	</item>
+<item>	U+1F4B8	</item>
+<item>	U+1F4B3	</item>
+<item>	U+1F9FE	</item>
+<item>	U+1F4B9	</item>
+<item>	U+1F4B1	</item>
+<item>	U+1F4B2	</item>
+<item>	U+2709, U+FE0F	</item>
+<item>	U+1F4E7	</item>
+<item>	U+1F4E8	</item>
+<item>	U+1F4E9	</item>
+<item>	U+1F4E4	</item>
+<item>	U+1F4E5	</item>
+<item>	U+1F4E6	</item>
+<item>	U+1F4EB	</item>
+<item>	U+1F4EA	</item>
+<item>	U+1F4EC	</item>
+<item>	U+1F4ED	</item>
+<item>	U+1F4EE	</item>
+<item>	U+1F5F3, U+FE0F	</item>
+<item>	U+270F, U+FE0F	</item>
+<item>	U+2712, U+FE0F	</item>
+<item>	U+1F58B, U+FE0F	</item>
+<item>	U+1F58A, U+FE0F	</item>
+<item>	U+1F58C, U+FE0F	</item>
+<item>	U+1F58D, U+FE0F	</item>
+<item>	U+1F4DD	</item>
+<item>	U+1F4BC	</item>
+<item>	U+1F4C1	</item>
+<item>	U+1F4C2	</item>
+<item>	U+1F5C2, U+FE0F	</item>
+<item>	U+1F4C5	</item>
+<item>	U+1F4C6	</item>
+<item>	U+1F5D2, U+FE0F	</item>
+<item>	U+1F5D3, U+FE0F	</item>
+<item>	U+1F4C7	</item>
+<item>	U+1F4C8	</item>
+<item>	U+1F4C9	</item>
+<item>	U+1F4CA	</item>
+<item>	U+1F4CB	</item>
+<item>	U+1F4CC	</item>
+<item>	U+1F4CD	</item>
+<item>	U+1F4CE	</item>
+<item>	U+1F587, U+FE0F	</item>
+<item>	U+1F4CF	</item>
+<item>	U+1F4D0	</item>
+<item>	U+2702, U+FE0F	</item>
+<item>	U+1F5C3, U+FE0F	</item>
+<item>	U+1F5C4, U+FE0F	</item>
+<item>	U+1F5D1, U+FE0F	</item>
+<item>	U+1F512	</item>
+<item>	U+1F513	</item>
+<item>	U+1F50F	</item>
+<item>	U+1F510	</item>
+<item>	U+1F511	</item>
+<item>	U+1F5DD, U+FE0F	</item>
+<item>	U+1F528	</item>
+<item>	U+1FA93	</item>
+<item>	U+26CF, U+FE0F	</item>
+<item>	U+2692, U+FE0F	</item>
+<item>	U+1F6E0, U+FE0F	</item>
+<item>	U+1F5E1, U+FE0F	</item>
+<item>	U+2694, U+FE0F	</item>
+<item>	U+1F52B	</item>
+<item>	U+1F3F9	</item>
+<item>	U+1F6E1, U+FE0F	</item>
+<item>	U+1F527	</item>
+<item>	U+1F529	</item>
+<item>	U+2699, U+FE0F	</item>
+<item>	U+1F5DC, U+FE0F	</item>
+<item>	U+2696, U+FE0F	</item>
+<item>	U+1F9AF	</item>
+<item>	U+1F517	</item>
+<item>	U+26D3, U+FE0F	</item>
+<item>	U+1F9F0	</item>
+<item>	U+1F9F2	</item>
+<item>	U+2697, U+FE0F	</item>
+<item>	U+1F9EA	</item>
+<item>	U+1F9EB	</item>
+<item>	U+1F9EC	</item>
+<item>	U+1F52C	</item>
+<item>	U+1F52D	</item>
+<item>	U+1F4E1	</item>
+<item>	U+1F489	</item>
+<item>	U+1FA78	</item>
+<item>	U+1F48A	</item>
+<item>	U+1FA79	</item>
+<item>	U+1FA7A	</item>
+<item>	U+1F6AA	</item>
+<item>	U+1F6CF, U+FE0F	</item>
+<item>	U+1F6CB, U+FE0F	</item>
+<item>	U+1FA91	</item>
+<item>	U+1F6BD	</item>
+<item>	U+1F6BF	</item>
+<item>	U+1F6C1	</item>
+<item>	U+1FA92	</item>
+<item>	U+1F9F4	</item>
+<item>	U+1F9F7	</item>
+<item>	U+1F9F9	</item>
+<item>	U+1F9FA	</item>
+<item>	U+1F9FB	</item>
+<item>	U+1F9FC	</item>
+<item>	U+1F9FD	</item>
+<item>	U+1F9EF	</item>
+<item>	U+1F6D2	</item>
+<item>	U+1F6AC	</item>
+<item>	U+26B0, U+FE0F	</item>
+<item>	U+26B1, U+FE0F	</item>
+<item>	U+1F5FF	</item>
+<item>	U+1F3E7	</item>
+<item>	U+1F6AE	</item>
+<item>	U+1F6B0	</item>
+<item>	U+267F	</item>
+<item>	U+1F6B9	</item>
+<item>	U+1F6BA	</item>
+<item>	U+1F6BB	</item>
+<item>	U+1F6BC	</item>
+<item>	U+1F6BE	</item>
+<item>	U+1F6C2	</item>
+<item>	U+1F6C3	</item>
+<item>	U+1F6C4	</item>
+<item>	U+1F6C5	</item>
+<item>	U+26A0, U+FE0F	</item>
+<item>	U+1F6B8	</item>
+<item>	U+26D4	</item>
+<item>	U+1F6AB	</item>
+<item>	U+1F6B3	</item>
+<item>	U+1F6AD	</item>
+<item>	U+1F6AF	</item>
+<item>	U+1F6B1	</item>
+<item>	U+1F6B7	</item>
+<item>	U+1F4F5	</item>
+<item>	U+1F51E	</item>
+<item>	U+2622, U+FE0F	</item>
+<item>	U+2623, U+FE0F	</item>
+<item>	U+2B06, U+FE0F	</item>
+<item>	U+2197, U+FE0F	</item>
+<item>	U+27A1, U+FE0F	</item>
+<item>	U+2198, U+FE0F	</item>
+<item>	U+2B07, U+FE0F	</item>
+<item>	U+2199, U+FE0F	</item>
+<item>	U+2B05, U+FE0F	</item>
+<item>	U+2196, U+FE0F	</item>
+<item>	U+2195, U+FE0F	</item>
+<item>	U+2194, U+FE0F	</item>
+<item>	U+21A9, U+FE0F	</item>
+<item>	U+21AA, U+FE0F	</item>
+<item>	U+2934, U+FE0F	</item>
+<item>	U+2935, U+FE0F	</item>
+<item>	U+1F503	</item>
+<item>	U+1F504	</item>
+<item>	U+1F519	</item>
+<item>	U+1F51A	</item>
+<item>	U+1F51B	</item>
+<item>	U+1F51C	</item>
+<item>	U+1F51D	</item>
+<item>	U+1F6D0	</item>
+<item>	U+269B, U+FE0F	</item>
+<item>	U+1F549, U+FE0F	</item>
+<item>	U+2721, U+FE0F	</item>
+<item>	U+2638, U+FE0F	</item>
+<item>	U+262F, U+FE0F	</item>
+<item>	U+271D, U+FE0F	</item>
+<item>	U+2626, U+FE0F	</item>
+<item>	U+262A, U+FE0F	</item>
+<item>	U+262E, U+FE0F	</item>
+<item>	U+1F54E	</item>
+<item>	U+1F52F	</item>
+<item>	U+2648	</item>
+<item>	U+2649	</item>
+<item>	U+264A	</item>
+<item>	U+264B	</item>
+<item>	U+264C	</item>
+<item>	U+264D	</item>
+<item>	U+264E	</item>
+<item>	U+264F	</item>
+<item>	U+2650	</item>
+<item>	U+2651	</item>
+<item>	U+2652	</item>
+<item>	U+2653	</item>
+<item>	U+26CE	</item>
+<item>	U+1F500	</item>
+<item>	U+1F501	</item>
+<item>	U+1F502	</item>
+<item>	U+25B6, U+FE0F	</item>
+<item>	U+23E9	</item>
+<item>	U+23ED, U+FE0F	</item>
+<item>	U+23EF, U+FE0F	</item>
+<item>	U+25C0, U+FE0F	</item>
+<item>	U+23EA	</item>
+<item>	U+23EE, U+FE0F	</item>
+<item>	U+1F53C	</item>
+<item>	U+23EB	</item>
+<item>	U+1F53D	</item>
+<item>	U+23EC	</item>
+<item>	U+23F8, U+FE0F	</item>
+<item>	U+23F9, U+FE0F	</item>
+<item>	U+23FA, U+FE0F	</item>
+<item>	U+23CF, U+FE0F	</item>
+<item>	U+1F3A6	</item>
+<item>	U+1F505	</item>
+<item>	U+1F506	</item>
+<item>	U+1F4F6	</item>
+<item>	U+1F4F3	</item>
+<item>	U+1F4F4	</item>
+<item>	U+2640, U+FE0F	</item>
+<item>	U+2642, U+FE0F	</item>
+<item>	U+2695, U+FE0F	</item>
+<item>	U+267E, U+FE0F	</item>
+<item>	U+267B, U+FE0F	</item>
+<item>	U+269C, U+FE0F	</item>
+<item>	U+1F531	</item>
+<item>	U+1F4DB	</item>
+<item>	U+1F530	</item>
+<item>	U+2B55	</item>
+<item>	U+2705	</item>
+<item>	U+2611, U+FE0F	</item>
+<item>	U+2714, U+FE0F	</item>
+<item>	U+2716, U+FE0F	</item>
+<item>	U+274C	</item>
+<item>	U+274E	</item>
+<item>	U+2795	</item>
+<item>	U+2796	</item>
+<item>	U+2797	</item>
+<item>	U+27B0	</item>
+<item>	U+27BF	</item>
+<item>	U+303D, U+FE0F	</item>
+<item>	U+2733, U+FE0F	</item>
+<item>	U+2734, U+FE0F	</item>
+<item>	U+2747, U+FE0F	</item>
+<item>	U+203C, U+FE0F	</item>
+<item>	U+2049, U+FE0F	</item>
+<item>	U+2753	</item>
+<item>	U+2754	</item>
+<item>	U+2755	</item>
+<item>	U+2757	</item>
+<item>	U+3030, U+FE0F	</item>
+<item>	U+A9, U+FE0F	</item>
+<item>	U+AE, U+FE0F	</item>
+<item>	U+2122, U+FE0F	</item>
+<item>	U+23, U+FE0F, U+20E3	</item>
+<item>	U+2A, U+FE0F, U+20E3	</item>
+<item>	U+30, U+FE0F, U+20E3	</item>
+<item>	U+31, U+FE0F, U+20E3	</item>
+<item>	U+32, U+FE0F, U+20E3	</item>
+<item>	U+33, U+FE0F, U+20E3	</item>
+<item>	U+34, U+FE0F, U+20E3	</item>
+<item>	U+35, U+FE0F, U+20E3	</item>
+<item>	U+36, U+FE0F, U+20E3	</item>
+<item>	U+37, U+FE0F, U+20E3	</item>
+<item>	U+38, U+FE0F, U+20E3	</item>
+<item>	U+39, U+FE0F, U+20E3	</item>
+<item>	U+1F51F	</item>
+<item>	U+1F520	</item>
+<item>	U+1F521	</item>
+<item>	U+1F522	</item>
+<item>	U+1F523	</item>
+<item>	U+1F524	</item>
+<item>	U+1F170, U+FE0F	</item>
+<item>	U+1F18E	</item>
+<item>	U+1F171, U+FE0F	</item>
+<item>	U+1F191	</item>
+<item>	U+1F192	</item>
+<item>	U+1F193	</item>
+<item>	U+2139, U+FE0F	</item>
+<item>	U+1F194	</item>
+<item>	U+24C2, U+FE0F	</item>
+<item>	U+1F195	</item>
+<item>	U+1F196	</item>
+<item>	U+1F17E, U+FE0F	</item>
+<item>	U+1F197	</item>
+<item>	U+1F17F, U+FE0F	</item>
+<item>	U+1F198	</item>
+<item>	U+1F199	</item>
+<item>	U+1F19A	</item>
+<item>	U+1F201	</item>
+<item>	U+1F202, U+FE0F	</item>
+<item>	U+1F237, U+FE0F	</item>
+<item>	U+1F236	</item>
+<item>	U+1F22F	</item>
+<item>	U+1F250	</item>
+<item>	U+1F239	</item>
+<item>	U+1F21A	</item>
+<item>	U+1F232	</item>
+<item>	U+1F251	</item>
+<item>	U+1F238	</item>
+<item>	U+1F234	</item>
+<item>	U+1F233	</item>
+<item>	U+3297, U+FE0F	</item>
+<item>	U+3299, U+FE0F	</item>
+<item>	U+1F23A	</item>
+<item>	U+1F235	</item>
+<item>	U+1F534	</item>
+<item>	U+1F7E0	</item>
+<item>	U+1F7E1	</item>
+<item>	U+1F7E2	</item>
+<item>	U+1F535	</item>
+<item>	U+1F7E3	</item>
+<item>	U+1F7E4	</item>
+<item>	U+26AB	</item>
+<item>	U+26AA	</item>
+<item>	U+1F7E5	</item>
+<item>	U+1F7E7	</item>
+<item>	U+1F7E8	</item>
+<item>	U+1F7E9	</item>
+<item>	U+1F7E6	</item>
+<item>	U+1F7EA	</item>
+<item>	U+1F7EB	</item>
+<item>	U+2B1B	</item>
+<item>	U+2B1C	</item>
+<item>	U+25FC, U+FE0F	</item>
+<item>	U+25FB, U+FE0F	</item>
+<item>	U+25FE	</item>
+<item>	U+25FD	</item>
+<item>	U+25AA, U+FE0F	</item>
+<item>	U+25AB, U+FE0F	</item>
+<item>	U+1F536	</item>
+<item>	U+1F537	</item>
+<item>	U+1F538	</item>
+<item>	U+1F539	</item>
+<item>	U+1F53A	</item>
+<item>	U+1F53B	</item>
+<item>	U+1F4A0	</item>
+<item>	U+1F518	</item>
+<item>	U+1F533	</item>
+<item>	U+1F532	</item>
+<item>	U+1F3C1	</item>
+<item>	U+1F6A9	</item>
+<item>	U+1F38C	</item>
+<item>	U+1F3F4	</item>
+<item>	U+1F3F3, U+FE0F	</item>
+<item>	U+1F3F3, U+FE0F, U+200D, U+1F308	</item>
+<item>	U+1F3F4, U+200D, U+2620, U+FE0F	</item>
+<item>	U+1F1E6, U+1F1E8	</item>
+<item>	U+1F1E6, U+1F1E9	</item>
+<item>	U+1F1E6, U+1F1EA	</item>
+<item>	U+1F1E6, U+1F1EB	</item>
+<item>	U+1F1E6, U+1F1EC	</item>
+<item>	U+1F1E6, U+1F1EE	</item>
+<item>	U+1F1E6, U+1F1F1	</item>
+<item>	U+1F1E6, U+1F1F2	</item>
+<item>	U+1F1E6, U+1F1F4	</item>
+<item>	U+1F1E6, U+1F1F6	</item>
+<item>	U+1F1E6, U+1F1F7	</item>
+<item>	U+1F1E6, U+1F1F8	</item>
+<item>	U+1F1E6, U+1F1F9	</item>
+<item>	U+1F1E6, U+1F1FA	</item>
+<item>	U+1F1E6, U+1F1FC	</item>
+<item>	U+1F1E6, U+1F1FD	</item>
+<item>	U+1F1E6, U+1F1FF	</item>
+<item>	U+1F1E7, U+1F1E6	</item>
+<item>	U+1F1E7, U+1F1E7	</item>
+<item>	U+1F1E7, U+1F1E9	</item>
+<item>	U+1F1E7, U+1F1EA	</item>
+<item>	U+1F1E7, U+1F1EB	</item>
+<item>	U+1F1E7, U+1F1EC	</item>
+<item>	U+1F1E7, U+1F1ED	</item>
+<item>	U+1F1E7, U+1F1EE	</item>
+<item>	U+1F1E7, U+1F1EF	</item>
+<item>	U+1F1E7, U+1F1F1	</item>
+<item>	U+1F1E7, U+1F1F2	</item>
+<item>	U+1F1E7, U+1F1F3	</item>
+<item>	U+1F1E7, U+1F1F4	</item>
+<item>	U+1F1E7, U+1F1F6	</item>
+<item>	U+1F1E7, U+1F1F7	</item>
+<item>	U+1F1E7, U+1F1F8	</item>
+<item>	U+1F1E7, U+1F1F9	</item>
+<item>	U+1F1E7, U+1F1FB	</item>
+<item>	U+1F1E7, U+1F1FC	</item>
+<item>	U+1F1E7, U+1F1FE	</item>
+<item>	U+1F1E7, U+1F1FF	</item>
+<item>	U+1F1E8, U+1F1E6	</item>
+<item>	U+1F1E8, U+1F1E8	</item>
+<item>	U+1F1E8, U+1F1E9	</item>
+<item>	U+1F1E8, U+1F1EB	</item>
+<item>	U+1F1E8, U+1F1EC	</item>
+<item>	U+1F1E8, U+1F1ED	</item>
+<item>	U+1F1E8, U+1F1EE	</item>
+<item>	U+1F1E8, U+1F1F0	</item>
+<item>	U+1F1E8, U+1F1F1	</item>
+<item>	U+1F1E8, U+1F1F2	</item>
+<item>	U+1F1E8, U+1F1F3	</item>
+<item>	U+1F1E8, U+1F1F4	</item>
+<item>	U+1F1E8, U+1F1F5	</item>
+<item>	U+1F1E8, U+1F1F7	</item>
+<item>	U+1F1E8, U+1F1FA	</item>
+<item>	U+1F1E8, U+1F1FB	</item>
+<item>	U+1F1E8, U+1F1FC	</item>
+<item>	U+1F1E8, U+1F1FD	</item>
+<item>	U+1F1E8, U+1F1FE	</item>
+<item>	U+1F1E8, U+1F1FF	</item>
+<item>	U+1F1E9, U+1F1EA	</item>
+<item>	U+1F1E9, U+1F1EC	</item>
+<item>	U+1F1E9, U+1F1EF	</item>
+<item>	U+1F1E9, U+1F1F0	</item>
+<item>	U+1F1E9, U+1F1F2	</item>
+<item>	U+1F1E9, U+1F1F4	</item>
+<item>	U+1F1E9, U+1F1FF	</item>
+<item>	U+1F1EA, U+1F1E6	</item>
+<item>	U+1F1EA, U+1F1E8	</item>
+<item>	U+1F1EA, U+1F1EA	</item>
+<item>	U+1F1EA, U+1F1EC	</item>
+<item>	U+1F1EA, U+1F1ED	</item>
+<item>	U+1F1EA, U+1F1F7	</item>
+<item>	U+1F1EA, U+1F1F8	</item>
+<item>	U+1F1EA, U+1F1F9	</item>
+<item>	U+1F1EA, U+1F1FA	</item>
+<item>	U+1F1EB, U+1F1EE	</item>
+<item>	U+1F1EB, U+1F1EF	</item>
+<item>	U+1F1EB, U+1F1F0	</item>
+<item>	U+1F1EB, U+1F1F2	</item>
+<item>	U+1F1EB, U+1F1F4	</item>
+<item>	U+1F1EB, U+1F1F7	</item>
+<item>	U+1F1EC, U+1F1E6	</item>
+<item>	U+1F1EC, U+1F1E7	</item>
+<item>	U+1F1EC, U+1F1E9	</item>
+<item>	U+1F1EC, U+1F1EA	</item>
+<item>	U+1F1EC, U+1F1EB	</item>
+<item>	U+1F1EC, U+1F1EC	</item>
+<item>	U+1F1EC, U+1F1ED	</item>
+<item>	U+1F1EC, U+1F1EE	</item>
+<item>	U+1F1EC, U+1F1F1	</item>
+<item>	U+1F1EC, U+1F1F2	</item>
+<item>	U+1F1EC, U+1F1F3	</item>
+<item>	U+1F1EC, U+1F1F5	</item>
+<item>	U+1F1EC, U+1F1F6	</item>
+<item>	U+1F1EC, U+1F1F7	</item>
+<item>	U+1F1EC, U+1F1F8	</item>
+<item>	U+1F1EC, U+1F1F9	</item>
+<item>	U+1F1EC, U+1F1FA	</item>
+<item>	U+1F1EC, U+1F1FC	</item>
+<item>	U+1F1EC, U+1F1FE	</item>
+<item>	U+1F1ED, U+1F1F0	</item>
+<item>	U+1F1ED, U+1F1F2	</item>
+<item>	U+1F1ED, U+1F1F3	</item>
+<item>	U+1F1ED, U+1F1F7	</item>
+<item>	U+1F1ED, U+1F1F9	</item>
+<item>	U+1F1ED, U+1F1FA	</item>
+<item>	U+1F1EE, U+1F1E8	</item>
+<item>	U+1F1EE, U+1F1E9	</item>
+<item>	U+1F1EE, U+1F1EA	</item>
+<item>	U+1F1EE, U+1F1F1	</item>
+<item>	U+1F1EE, U+1F1F2	</item>
+<item>	U+1F1EE, U+1F1F3	</item>
+<item>	U+1F1EE, U+1F1F4	</item>
+<item>	U+1F1EE, U+1F1F6	</item>
+<item>	U+1F1EE, U+1F1F7	</item>
+<item>	U+1F1EE, U+1F1F8	</item>
+<item>	U+1F1EE, U+1F1F9	</item>
+<item>	U+1F1EF, U+1F1EA	</item>
+<item>	U+1F1EF, U+1F1F2	</item>
+<item>	U+1F1EF, U+1F1F4	</item>
+<item>	U+1F1EF, U+1F1F5	</item>
+<item>	U+1F1F0, U+1F1EA	</item>
+<item>	U+1F1F0, U+1F1EC	</item>
+<item>	U+1F1F0, U+1F1ED	</item>
+<item>	U+1F1F0, U+1F1EE	</item>
+<item>	U+1F1F0, U+1F1F2	</item>
+<item>	U+1F1F0, U+1F1F3	</item>
+<item>	U+1F1F0, U+1F1F5	</item>
+<item>	U+1F1F0, U+1F1F7	</item>
+<item>	U+1F1F0, U+1F1FC	</item>
+<item>	U+1F1F0, U+1F1FE	</item>
+<item>	U+1F1F0, U+1F1FF	</item>
+<item>	U+1F1F1, U+1F1E6	</item>
+<item>	U+1F1F1, U+1F1E7	</item>
+<item>	U+1F1F1, U+1F1E8	</item>
+<item>	U+1F1F1, U+1F1EE	</item>
+<item>	U+1F1F1, U+1F1F0	</item>
+<item>	U+1F1F1, U+1F1F7	</item>
+<item>	U+1F1F1, U+1F1F8	</item>
+<item>	U+1F1F1, U+1F1F9	</item>
+<item>	U+1F1F1, U+1F1FA	</item>
+<item>	U+1F1F1, U+1F1FB	</item>
+<item>	U+1F1F1, U+1F1FE	</item>
+<item>	U+1F1F2, U+1F1E6	</item>
+<item>	U+1F1F2, U+1F1E8	</item>
+<item>	U+1F1F2, U+1F1E9	</item>
+<item>	U+1F1F2, U+1F1EA	</item>
+<item>	U+1F1F2, U+1F1EB	</item>
+<item>	U+1F1F2, U+1F1EC	</item>
+<item>	U+1F1F2, U+1F1ED	</item>
+<item>	U+1F1F2, U+1F1F0	</item>
+<item>	U+1F1F2, U+1F1F1	</item>
+<item>	U+1F1F2, U+1F1F2	</item>
+<item>	U+1F1F2, U+1F1F3	</item>
+<item>	U+1F1F2, U+1F1F4	</item>
+<item>	U+1F1F2, U+1F1F5	</item>
+<item>	U+1F1F2, U+1F1F6	</item>
+<item>	U+1F1F2, U+1F1F7	</item>
+<item>	U+1F1F2, U+1F1F8	</item>
+<item>	U+1F1F2, U+1F1F9	</item>
+<item>	U+1F1F2, U+1F1FA	</item>
+<item>	U+1F1F2, U+1F1FB	</item>
+<item>	U+1F1F2, U+1F1FC	</item>
+<item>	U+1F1F2, U+1F1FD	</item>
+<item>	U+1F1F2, U+1F1FE	</item>
+<item>	U+1F1F2, U+1F1FF	</item>
+<item>	U+1F1F3, U+1F1E6	</item>
+<item>	U+1F1F3, U+1F1E8	</item>
+<item>	U+1F1F3, U+1F1EA	</item>
+<item>	U+1F1F3, U+1F1EB	</item>
+<item>	U+1F1F3, U+1F1EC	</item>
+<item>	U+1F1F3, U+1F1EE	</item>
+<item>	U+1F1F3, U+1F1F1	</item>
+<item>	U+1F1F3, U+1F1F4	</item>
+<item>	U+1F1F3, U+1F1F5	</item>
+<item>	U+1F1F3, U+1F1F7	</item>
+<item>	U+1F1F3, U+1F1FA	</item>
+<item>	U+1F1F3, U+1F1FF	</item>
+<item>	U+1F1F4, U+1F1F2	</item>
+<item>	U+1F1F5, U+1F1E6	</item>
+<item>	U+1F1F5, U+1F1EA	</item>
+<item>	U+1F1F5, U+1F1EB	</item>
+<item>	U+1F1F5, U+1F1EC	</item>
+<item>	U+1F1F5, U+1F1ED	</item>
+<item>	U+1F1F5, U+1F1F0	</item>
+<item>	U+1F1F5, U+1F1F1	</item>
+<item>	U+1F1F5, U+1F1F2	</item>
+<item>	U+1F1F5, U+1F1F3	</item>
+<item>	U+1F1F5, U+1F1F7	</item>
+<item>	U+1F1F5, U+1F1F8	</item>
+<item>	U+1F1F5, U+1F1F9	</item>
+<item>	U+1F1F5, U+1F1FC	</item>
+<item>	U+1F1F5, U+1F1FE	</item>
+<item>	U+1F1F6, U+1F1E6	</item>
+<item>	U+1F1F7, U+1F1EA	</item>
+<item>	U+1F1F7, U+1F1F4	</item>
+<item>	U+1F1F7, U+1F1F8	</item>
+<item>	U+1F1F7, U+1F1FA	</item>
+<item>	U+1F1F7, U+1F1FC	</item>
+<item>	U+1F1F8, U+1F1E6	</item>
+<item>	U+1F1F8, U+1F1E7	</item>
+<item>	U+1F1F8, U+1F1E8	</item>
+<item>	U+1F1F8, U+1F1E9	</item>
+<item>	U+1F1F8, U+1F1EA	</item>
+<item>	U+1F1F8, U+1F1EC	</item>
+<item>	U+1F1F8, U+1F1ED	</item>
+<item>	U+1F1F8, U+1F1EE	</item>
+<item>	U+1F1F8, U+1F1EF	</item>
+<item>	U+1F1F8, U+1F1F0	</item>
+<item>	U+1F1F8, U+1F1F1	</item>
+<item>	U+1F1F8, U+1F1F2	</item>
+<item>	U+1F1F8, U+1F1F3	</item>
+<item>	U+1F1F8, U+1F1F4	</item>
+<item>	U+1F1F8, U+1F1F7	</item>
+<item>	U+1F1F8, U+1F1F8	</item>
+<item>	U+1F1F8, U+1F1F9	</item>
+<item>	U+1F1F8, U+1F1FB	</item>
+<item>	U+1F1F8, U+1F1FD	</item>
+<item>	U+1F1F8, U+1F1FE	</item>
+<item>	U+1F1F8, U+1F1FF	</item>
+<item>	U+1F1F9, U+1F1E6	</item>
+<item>	U+1F1F9, U+1F1E8	</item>
+<item>	U+1F1F9, U+1F1E9	</item>
+<item>	U+1F1F9, U+1F1EB	</item>
+<item>	U+1F1F9, U+1F1EC	</item>
+<item>	U+1F1F9, U+1F1ED	</item>
+<item>	U+1F1F9, U+1F1EF	</item>
+<item>	U+1F1F9, U+1F1F0	</item>
+<item>	U+1F1F9, U+1F1F1	</item>
+<item>	U+1F1F9, U+1F1F2	</item>
+<item>	U+1F1F9, U+1F1F3	</item>
+<item>	U+1F1F9, U+1F1F4	</item>
+<item>	U+1F1F9, U+1F1F7	</item>
+<item>	U+1F1F9, U+1F1F9	</item>
+<item>	U+1F1F9, U+1F1FB	</item>
+<item>	U+1F1F9, U+1F1FC	</item>
+<item>	U+1F1F9, U+1F1FF	</item>
+<item>	U+1F1FA, U+1F1E6	</item>
+<item>	U+1F1FA, U+1F1EC	</item>
+<item>	U+1F1FA, U+1F1F2	</item>
+<item>	U+1F1FA, U+1F1F3	</item>
+<item>	U+1F1FA, U+1F1F8	</item>
+<item>	U+1F1FA, U+1F1FE	</item>
+<item>	U+1F1FA, U+1F1FF	</item>
+<item>	U+1F1FB, U+1F1E6	</item>
+<item>	U+1F1FB, U+1F1E8	</item>
+<item>	U+1F1FB, U+1F1EA	</item>
+<item>	U+1F1FB, U+1F1EC	</item>
+<item>	U+1F1FB, U+1F1EE	</item>
+<item>	U+1F1FB, U+1F1F3	</item>
+<item>	U+1F1FB, U+1F1FA	</item>
+<item>	U+1F1FC, U+1F1EB	</item>
+<item>	U+1F1FC, U+1F1F8	</item>
+<item>	U+1F1FD, U+1F1F0	</item>
+<item>	U+1F1FE, U+1F1EA	</item>
+<item>	U+1F1FE, U+1F1F9	</item>
+<item>	U+1F1FF, U+1F1E6	</item>
+<item>	U+1F1FF, U+1F1F2	</item>
+<item>	U+1F1FF, U+1F1FC	</item>
+<item>	U+1F3F4, U+E0067, U+E0062, U+E0065, U+E006E, U+E0067, U+E007F	</item>
+<item>	U+1F3F4, U+E0067, U+E0062, U+E0073, U+E0063, U+E0074, U+E007F	</item>
+<item>	U+1F3F4, U+E0067, U+E0062, U+E0077, U+E006C, U+E0073, U+E007F	</item>
+<item>	U+1F1E6	</item>
+<item>	U+1F1E7	</item>
+<item>	U+1F1E8	</item>
+<item>	U+1F1E9	</item>
+<item>	U+1F1EA	</item>
+<item>	U+1F1EB	</item>
+<item>	U+1F1EC	</item>
+<item>	U+1F1ED	</item>
+<item>	U+1F1EE	</item>
+<item>	U+1F1EF	</item>
+<item>	U+1F1F0	</item>
+<item>	U+1F1F1	</item>
+<item>	U+1F1F2	</item>
+<item>	U+1F1F3	</item>
+<item>	U+1F1F4	</item>
+<item>	U+1F1F5	</item>
+<item>	U+1F1F6	</item>
+<item>	U+1F1F7	</item>
+<item>	U+1F1F8	</item>
+<item>	U+1F1F9	</item>
+<item>	U+1F1FA	</item>
+<item>	U+1F1FB	</item>
+<item>	U+1F1FC	</item>
+<item>	U+1F1FD	</item>
+<item>	U+1F1FE	</item>
+<item>	U+1F1FF	</item>
+<item>	U+E003A	</item>
+<item>	U+34, U+FE0F	</item>
+<item>	U+E0071	</item>
+<item>	U+31, U+FE0F	</item>
+<item>	U+E0036	</item>
+<item>	U+E0069	</item>
+<item>	U+E002F	</item>
+<item>	U+E0025	</item>
+<item>	U+E006C	</item>
+<item>	U+E0052	</item>
+<item>	U+E003C	</item>
+<item>	U+E003E	</item>
+<item>	U+E0039	</item>
+<item>	U+E003B	</item>
+<item>	U+E0026	</item>
+<item>	U+E002D	</item>
+<item>	U+E005B	</item>
+<item>	U+23, U+FE0F	</item>
+<item>	U+E0056	</item>
+<item>	U+E0037	</item>
+<item>	U+E005A	</item>
+<item>	U+E0038	</item>
+<item>	U+E0049	</item>
+<item>	U+E0074	</item>
+<item>	U+E0067	</item>
+<item>	U+E002C	</item>
+<item>	U+E0068	</item>
+<item>	U+37, U+FE0F	</item>
+<item>	U+30, U+FE0F	</item>
+<item>	U+E0022	</item>
+<item>	U+E0028	</item>
+<item>	U+20E3	</item>
+<item>	U+E0020	</item>
+<item>	U+E0032	</item>
+<item>	U+E0021	</item>
+<item>	U+E004F	</item>
+<item>	U+E0060	</item>
+<item>	U+E0064	</item>
+<item>	U+35, U+FE0F	</item>
+<item>	U+38, U+FE0F	</item>
+<item>	U+E0059	</item>
+<item>	U+E0034	</item>
+<item>	U+E0031	</item>
+<item>	U+E0041	</item>
+<item>	U+E0063	</item>
+<item>	U+E0042	</item>
+<item>	U+E002B	</item>
+<item>	U+E007D	</item>
+<item>	U+E003F	</item>
+<item>	U+E0030	</item>
+<item>	U+E0073	</item>
+<item>	U+E0023	</item>
+<item>	U+E004C	</item>
+<item>	U+E005F	</item>
+<item>	U+E005D	</item>
+<item>	U+E0046	</item>
+<item>	U+E0044	</item>
+<item>	U+E0078	</item>
+<item>	U+E0024	</item>
+<item>	U+E0077	</item>
+<item>	U+E007E	</item>
+<item>	U+E0055	</item>
+<item>	U+E0050	</item>
+<item>	U+E003D	</item>
+<item>	U+E0047	</item>
+<item>	U+E0075	</item>
+<item>	U+2A, U+FE0F	</item>
+<item>	U+E004B	</item>
+<item>	U+E004E	</item>
+<item>	U+E0053	</item>
+<item>	U+200D	</item>
+<item>	U+E0035	</item>
+<item>	U+E0029	</item>
+<item>	U+E0079	</item>
+<item>	U+E0061	</item>
+<item>	U+E006F	</item>
+<item>	U+E0040	</item>
+<item>	U+E0054	</item>
+<item>	U+E002A	</item>
+<item>	U+E0048	</item>
+<item>	U+E007A	</item>
+<item>	U+E0066	</item>
+<item>	U+E006A	</item>
+<item>	U+E006B	</item>
+<item>	U+E007B	</item>
+<item>	U+36, U+FE0F	</item>
+<item>	U+E005C	</item>
+<item>	U+E0027	</item>
+<item>	U+E0076	</item>
+<item>	U+FE0F	</item>
+<item>	U+E005E	</item>
+<item>	U+E0043	</item>
+<item>	U+E0065	</item>
+<item>	U+E006E	</item>
+<item>	U+32, U+FE0F	</item>
+<item>	U+E007C	</item>
+<item>	U+E002E	</item>
+<item>	U+E0057	</item>
+<item>	U+33, U+FE0F	</item>
+<item>	U+E007F	</item>
+<item>	U+E0045	</item>
+<item>	U+E006D	</item>
+<item>	U+39, U+FE0F	</item>
+<item>	U+E0033	</item>
+<item>	U+E0072	</item>
+<item>	U+E004D	</item>
+<item>	U+E0051	</item>
+<item>	U+E0058	</item>
+<item>	U+E004A	</item>
+<item>	U+E0062	</item>
+<item>	U+E0070	</item>

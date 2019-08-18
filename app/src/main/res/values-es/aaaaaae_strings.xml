@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaae">chiplanay</string>
+    <string name="library_aaaaaae_author">chiplanay</string>
+    <string name="library_aaaaaae_authorWebsite">https://pixabay.com/users/chiplanay-1971251/</string>
+    <string name="library_aaaaaae_libraryName">Pixabay</string>
+    <string name="library_aaaaaae_libraryDescription">chiplanay at Pixabay</string>
+    <string name="library_aaaaaae_libraryVersion"></string>
+    <string name="library_aaaaaae_libraryWebsite"> https://pixabay.com/users/chiplanay-1971251/</string>
+    <string name="library_aaaaaae_licenseId"></string>
+    <string name="library_aaaaaae_isOpenSource">true</string>
+    <string name="library_aaaaaae_repositoryLink"> https://pixabay.com/users/chiplanay-1971251/</string>
+
+</resources>

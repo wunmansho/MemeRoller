@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaag">Saulo Bode</string>
+    <string name="library_aaaaaag_author">Saulo Bode</string>
+    <string name="library_aaaaaag_authorWebsite">https://pixabay.com/users/saulo_prata-339387/</string>
+    <string name="library_aaaaaag_libraryName">Pixabay</string>
+    <string name="library_aaaaaag_libraryDescription">Saulo Bode at Pixabay</string>
+    <string name="library_aaaaaag_libraryVersion"></string>
+    <string name="library_aaaaaag_libraryWebsite"> https://pixabay.com/users/saulo_prata-339387/</string>
+    <string name="library_aaaaaag_licenseId"></string>
+    <string name="library_aaaaaag_isOpenSource">true</string>
+    <string name="library_aaaaaag_repositoryLink"> https://pixabay.com/users/saulo_prata-339387/</string>
+
+</resources>

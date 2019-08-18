@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaah">95C</string>
+    <string name="library_aaaaaah_author">95C</string>
+    <string name="library_aaaaaah_authorWebsite">https://pixabay.com/users/95c-484762/</string>
+    <string name="library_aaaaaah_libraryName">Pixabay</string>
+    <string name="library_aaaaaah_libraryDescription">95C at Pixabay</string>
+    <string name="library_aaaaaah_libraryVersion"></string>
+    <string name="library_aaaaaah_libraryWebsite"> https://pixabay.com/users/95c-484762/</string>
+    <string name="library_aaaaaah_licenseId"></string>
+    <string name="library_aaaaaah_isOpenSource">true</string>
+    <string name="library_aaaaaah_repositoryLink"> https://pixabay.com/users/95c-484762/</string>
+</resources>

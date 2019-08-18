@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaad">pselpico0</string>
+    <string name="library_aaaaaad_author">pselpico0</string>
+    <string name="library_aaaaaad_authorWebsite">https://pixabay.com/users/pselpico0-655129/</string>
+    <string name="library_aaaaaad_libraryName">Pixabay</string>
+    <string name="library_aaaaaad_libraryDescription">pselpico0 at Pixabay</string>
+    <string name="library_aaaaaad_libraryVersion"></string>
+    <string name="library_aaaaaad_libraryWebsite"> https://pixabay.com/users/pselpico0-655129/</string>
+    <string name="library_aaaaaad_licenseId"></string>
+    <string name="library_aaaaaad_isOpenSource">true</string>
+    <string name="library_aaaaaad_repositoryLink"> https://pixabay.com/users/pselpico0-655129/</string>
+
+</resources>

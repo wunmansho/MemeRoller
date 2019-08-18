@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaai">Alejandra Jimenez</string>
+    <string name="library_aaaaaai_author">Alejandra Jimenez</string>
+    <string name="library_aaaaaai_authorWebsite">https://pixabay.com/users/rosanegra_1-432510/</string>
+    <string name="library_aaaaaai_libraryName">Pixabay</string>
+    <string name="library_aaaaaai_libraryDescription">Alejandra Jimenez at Pixabay</string>
+    <string name="library_aaaaaai_libraryVersion"></string>
+    <string name="library_aaaaaai_libraryWebsite"> https://pixabay.com/users/rosanegra_1-432510/</string>
+    <string name="library_aaaaaai_licenseId"></string>
+    <string name="library_aaaaaai_isOpenSource">true</string>
+    <string name="library_aaaaaai_repositoryLink"> https://pixabay.com/users/rosanegra_1-432510/</string>
+</resources>

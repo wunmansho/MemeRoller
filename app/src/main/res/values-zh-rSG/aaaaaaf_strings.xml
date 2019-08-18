@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="define_aaaaaaf">CoxinhaFotos</string>
+    <string name="library_aaaaaaf_author">CoxinhaFotos</string>
+    <string name="library_aaaaaaf_authorWebsite">https://pixabay.com/users/coxinhafotos-3726685/</string>
+    <string name="library_aaaaaaf_libraryName">Pixabay</string>
+    <string name="library_aaaaaaf_libraryDescription">CoxinhaFotos at Pixabay</string>
+    <string name="library_aaaaaaf_libraryVersion"></string>
+    <string name="library_aaaaaaf_libraryWebsite"> https://pixabay.com/users/coxinhafotos-3726685/</string>
+    <string name="library_aaaaaaf_licenseId"></string>
+    <string name="library_aaaaaaf_isOpenSource">true</string>
+    <string name="library_aaaaaaf_repositoryLink"> https://pixabay.com/users/coxinhafotos-3726685/</string>
+
+</resources>
